@@ -1,0 +1,302 @@
+{
+  "files": 27,
+  "checks": [
+    {
+      "file": "Abre.swf",
+      "original_sha256": "0385299791abbed2612c5562c4e872cc34df11bfd142aff43ce085ac69e85abc",
+      "final_sha256": "69c8340e1780aa3892194c2de25daafc61be1f1a693cde33467ec4958db6637e",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 225,
+      "DefineSound_payloads_byte_exact": 8,
+      "route_changes": 8,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "Afinacao.swf",
+      "original_sha256": "03579b42210b4eab3cb8af13bc42799b9c57a12628aac5f03094edb6c80a60c1",
+      "final_sha256": "a40866910796c7cbd3a18ff14aaf64cfe7be21d1dd8ec4eb346210483bca8d7d",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 113,
+      "DefineSound_payloads_byte_exact": 8,
+      "route_changes": 5,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "AfinacaoOit.swf",
+      "original_sha256": "7544d7639a8798793993818dee781b821feed34f4e70ecd4a549ad7e7a528335",
+      "final_sha256": "c0f184708f493ae47192764262bc20cfec1fb30b171a2dda051240d6b0b28026",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 272,
+      "DefineSound_payloads_byte_exact": 16,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "AfinacaoQua.swf",
+      "original_sha256": "1e6d4b25467a28c335ab8276e56a7b789292475b5b49016c64ccf605093c0a99",
+      "final_sha256": "b374930d66f2b1cc5be6f2f6222d6acf5c047d36a8b797438ca85fcd8de37b13",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 276,
+      "DefineSound_payloads_byte_exact": 16,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "AfinacaoQui.swf",
+      "original_sha256": "5652b9d210983866516220b323614ea5eeeef1ffb83394fb578b41f8f83720f1",
+      "final_sha256": "a65ae0d0fc91123749dbdff4817f5c665c503e091e6ce8f050cc714a5eec22c9",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 272,
+      "DefineSound_payloads_byte_exact": 16,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "AfinacaoUni.swf",
+      "original_sha256": "ec1d56815170bd48433de7b3b6691ae5a7df7fa92ef7d57775d9e589b7d13a71",
+      "final_sha256": "3eb246934d94f71c2fe150cd2216bdbffbecba84602b5229527253f5cdfd6b7b",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 272,
+      "DefineSound_payloads_byte_exact": 16,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "ArtiAcent.swf",
+      "original_sha256": "07d678295fa99eb073612587572d356f142c147ffed7f165d7e2a709645afcca",
+      "final_sha256": "dcd45e22e488b81c64ce78061c31460ecf19af6071710755766fcf7c4cdb5d78",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 584,
+      "DefineSound_payloads_byte_exact": 7,
+      "route_changes": 1,
+      "audio_symbol_fix": true
+    },
+    {
+      "file": "Articulacao.swf",
+      "original_sha256": "e5a9c25bfb450270fa6bbf6fc94fc2a4319f165741c114eb06adb867beb244a6",
+      "final_sha256": "80d63243f92e336132e28dc39331a022c34b3777d92b5c3add559f9c2c7dbf43",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 107,
+      "DefineSound_payloads_byte_exact": 8,
+      "route_changes": 6,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "ArtiLiga.swf",
+      "original_sha256": "59f575c5cd399e91b92bf47db22aa38119507e179097650e2ee780cb48aa074c",
+      "final_sha256": "b78e8e3714c9a01026a5e38508b752f9d390b57310b0bcfb689a4d5833424885",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 571,
+      "DefineSound_payloads_byte_exact": 7,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "ArtiStac.swf",
+      "original_sha256": "f591858de199fa1de582bf59e5a4fc34e36fd812eb660a5096c34442459bc927",
+      "final_sha256": "1932778181c78517402b3f2e8b85a7dd0b6dc7e2bf506e2caf024e2ddefb31c9",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 703,
+      "DefineSound_payloads_byte_exact": 14,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "ArtiTenu.swf",
+      "original_sha256": "ae4a0160bcdd692939a54bbef0977718d01bc5df07bde22e16bb4490a48827fc",
+      "final_sha256": "d8ff4983e0c49f4b4cc61aae023acf70ec5b22fd15343e4a119998c0f3945a42",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 371,
+      "DefineSound_payloads_byte_exact": 7,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "ArtiVari.swf",
+      "original_sha256": "50e6127cfc6e79bfedff7ca856db7aa97e4fa9910771cff803dfe7024416b217",
+      "final_sha256": "00e9787e140af1ebb450367c69a78e72f867f1303162fefdf56100c73d2383de",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 489,
+      "DefineSound_payloads_byte_exact": 7,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "Cadencia.swf",
+      "original_sha256": "edb959ce8d31a5c997169f033fe8ef56fd009465fb1d55dce675786c1aecc975",
+      "final_sha256": "e02ea2edb6ea15634c2795dd577348ef7d2d7e965ce76962dda7775a399e9478",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 457,
+      "DefineSound_payloads_byte_exact": 27,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "Dina.swf",
+      "original_sha256": "d309e8a921ea441fab0df57fd36047df5e58a25898d3041df00c678e38a426d6",
+      "final_sha256": "185735cb0dd09b92f4a73318741b74077cb9cc1822d7eadd01e92e5e1d121559",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 155,
+      "DefineSound_payloads_byte_exact": 2,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "Escala.swf",
+      "original_sha256": "85e0ab7405249318ad6cddf02cc2f33a20c248ae16a3748f9abd8a3f67c93ba3",
+      "final_sha256": "64e3cc5adbe61315f4b1d983027f0e52099d1a5cc03be98dbde45f89e92f8f6f",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 321,
+      "DefineSound_payloads_byte_exact": 13,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "Intervalo.swf",
+      "original_sha256": "ec3356f22aa5ed90c10ece302f5be3e44d1bbd7feaa6cebd58b11da2569dc318",
+      "final_sha256": "05228d02b133ec770dea9de3e9e184b6e4ab68bcaa647523789dff5e9eecdbf3",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 119,
+      "DefineSound_payloads_byte_exact": 8,
+      "route_changes": 8,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "IntFixo1458.swf",
+      "original_sha256": "908545c622591565f282141a21edd551f5c95ba153b940b88674dd335fa360c6",
+      "final_sha256": "fbeea3701b5a6688c7ee8557a69edd7f22023a3dfb011c693a92b08e1d0060a8",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 344,
+      "DefineSound_payloads_byte_exact": 8,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "IntFixo3MaMe.swf",
+      "original_sha256": "61d5e39420a2e6036567a9bc12e3709d75995d473f8020d1e0265a3f372930a5",
+      "final_sha256": "c72467b5013e398341f4f2b415d6601debefab39d827e5f30aa5a17aa3fa0021",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 260,
+      "DefineSound_payloads_byte_exact": 6,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "IntJunt3MaMe.swf",
+      "original_sha256": "5b3058b1f69c41a2dc22e843fcebd489af02795c2f12becbfbcbded031dfc889",
+      "final_sha256": "f76351da5fb066d4d3cbd16efef6c482dd4bc5270bee8ad845a99958981a467c",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 359,
+      "DefineSound_payloads_byte_exact": 9,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "IntJuntQuaQui.swf",
+      "original_sha256": "fdfd91b9acadd6b195d1e02fa22ea57298527d4b95d25c885455087178d2568a",
+      "final_sha256": "290980177fcc06553f3fe179ed8feb71feee8fc3903e2df77a57a014715a8f34",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 249,
+      "DefineSound_payloads_byte_exact": 16,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "IntJuntUniOit.swf",
+      "original_sha256": "e52e842c70ed7c05b281f72be0195a30a3305396a0f866c656f564bc116a65ab",
+      "final_sha256": "4afc69bb095c5ae1d38ca9a97fdf9cc467dee6ac8119ee4b412325768a9ce004",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 340,
+      "DefineSound_payloads_byte_exact": 16,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "IntSegQuaQui.swf",
+      "original_sha256": "47d04d8c44a6ca9615eaac5fc8f52a65513234a3a0cc291e32cb33c556d90a92",
+      "final_sha256": "151e8d37682fe39aba630707322ad1ce3fe7ab99a89793bd8e7054eebec79168",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 249,
+      "DefineSound_payloads_byte_exact": 16,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "IntSegUniOit.swf",
+      "original_sha256": "8134b38bcac2cf37f77ddcbb39aef1165020abf9a7a5ab4dafc775c1bcc617fa",
+      "final_sha256": "52e3cccafc9b870c310da195101a5e352712720b18a79bd669c00f80921a161e",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 340,
+      "DefineSound_payloads_byte_exact": 16,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "Modulacao.swf",
+      "original_sha256": "97439b41337c50a2d53b152628680030bfb7ef1024f35de59930bcd8a256e6bd",
+      "final_sha256": "0da80a3b695e6dc627524757087fe8feb72d578190c3faa66588c187a9b39bf6",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 286,
+      "DefineSound_payloads_byte_exact": 7,
+      "route_changes": 2,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "Notas.swf",
+      "original_sha256": "f2a8e2c85310d4d6a23eee079da66be53b23398909dd423d0c024ee4f103aad4",
+      "final_sha256": "6e47dbd8bf50db4010f3a9133fc049c4984fe2c171d5079878c3f90f5e3d46b9",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 719,
+      "DefineSound_payloads_byte_exact": 31,
+      "route_changes": 1,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "PianoMelhor.swf",
+      "original_sha256": "90e7c39c4c5543530a1c6b88087e91a160bd3c0001c7f4b21dd4e5c473ebb235",
+      "final_sha256": "90e7c39c4c5543530a1c6b88087e91a160bd3c0001c7f4b21dd4e5c473ebb235",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 65,
+      "DefineSound_payloads_byte_exact": 8,
+      "route_changes": 0,
+      "audio_symbol_fix": false
+    },
+    {
+      "file": "TPMmod1.swf",
+      "original_sha256": "0385299791abbed2612c5562c4e872cc34df11bfd142aff43ce085ac69e85abc",
+      "final_sha256": "69c8340e1780aa3892194c2de25daafc61be1f1a693cde33467ec4958db6637e",
+      "exact_expected_routes_and_single_audio_fix": true,
+      "original_stage_header_preserved": true,
+      "non_action_tag_payloads_byte_exact": 225,
+      "DefineSound_payloads_byte_exact": 8,
+      "route_changes": 8,
+      "audio_symbol_fix": false
+    }
+  ]
+}

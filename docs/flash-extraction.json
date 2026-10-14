@@ -1,0 +1,24 @@
+[
+  {
+    "carrier": "Abre.exe",
+    "carrier_size": 1152029,
+    "carrier_sha256": "0b2683c108897669b7c598732051d773dacb2620aa1295843c3c0e8d94c285b7",
+    "offset": 819200,
+    "swf_size": 332821,
+    "swf_sha256": "0385299791abbed2612c5562c4e872cc34df11bfd142aff43ce085ac69e85abc",
+    "swf": "Abre.swf",
+    "footer_magic": "0xfa123456",
+    "executed": false
+  },
+  {
+    "carrier": "PianoMelhor.exe",
+    "carrier_size": 1036493,
+    "carrier_sha256": "c44ca0f2ad40aca70b0f1128d10d33111dff254281006676863fba733a22f495",
+    "offset": 819200,
+    "swf_size": 217285,
+    "swf_sha256": "90e7c39c4c5543530a1c6b88087e91a160bd3c0001c7f4b21dd4e5c473ebb235",
+    "swf": "PianoMelhor.swf",
+    "footer_magic": "0xfa123456",
+    "executed": false
+  }
+]

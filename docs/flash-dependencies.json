@@ -1,0 +1,3196 @@
+[
+  {
+    "file": "Abre.swf",
+    "links": [
+      {
+        "authored_target": "Articulacao.swf",
+        "actual_file": "Articulacao.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "Dina.swf",
+        "actual_file": "Dina.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "Afinacao.swf",
+        "actual_file": "Afinacao.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "Notas.swf",
+        "actual_file": "Notas.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "Intervalo.swf",
+        "actual_file": "Intervalo.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "Escala.swf",
+        "actual_file": "Escala.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "Cadencia.swf",
+        "actual_file": "Cadencia.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "Modulacao.swf",
+        "actual_file": "Modulacao.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [
+      {
+        "button": 40,
+        "payload_size": 11
+      },
+      {
+        "button": 46,
+        "payload_size": 11
+      },
+      {
+        "button": 52,
+        "payload_size": 11
+      },
+      {
+        "button": 58,
+        "payload_size": 11
+      },
+      {
+        "button": 64,
+        "payload_size": 11
+      },
+      {
+        "button": 70,
+        "payload_size": 11
+      },
+      {
+        "button": 76,
+        "payload_size": 11
+      },
+      {
+        "button": 81,
+        "payload_size": 11
+      }
+    ],
+    "exports": []
+  },
+  {
+    "file": "Afinacao.swf",
+    "links": [
+      {
+        "authored_target": "TPMmod1.swf",
+        "actual_file": "TPMmod1.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "AfinacaoUni.swf",
+        "actual_file": "AfinacaoUni.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "AfinacaoOit.swf",
+        "actual_file": "AfinacaoOit.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "AfinacaoQui.swf",
+        "actual_file": "AfinacaoQui.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "AfinacaoQua.swf",
+        "actual_file": "AfinacaoQua.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [
+      {
+        "button": 7,
+        "payload_size": 11
+      },
+      {
+        "button": 13,
+        "payload_size": 11
+      },
+      {
+        "button": 19,
+        "payload_size": 11
+      },
+      {
+        "button": 25,
+        "payload_size": 11
+      },
+      {
+        "button": 31,
+        "payload_size": 11
+      },
+      {
+        "button": 37,
+        "payload_size": 11
+      },
+      {
+        "button": 43,
+        "payload_size": 11
+      },
+      {
+        "button": 48,
+        "payload_size": 11
+      }
+    ],
+    "exports": []
+  },
+  {
+    "file": "AfinacaoOit.swf",
+    "links": [
+      {
+        "authored_target": "Afinacao.swf",
+        "actual_file": "Afinacao.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "AfinaOitA1.wav",
+        "id": 16,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaOitD2.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaOitA3.wav",
+        "id": 14,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaOitA4.wav",
+        "id": 13,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaOitD5.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaOitA6.wav",
+        "id": 11,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaOitD7.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaOitA8.wav",
+        "id": 9,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaOitD4.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaOitD6.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaOitA7.wav",
+        "id": 10,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaOitD1.wav",
+        "id": 8,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaOitA2.wav",
+        "id": 15,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaOitD3.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaOitD8.wav",
+        "id": 1,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "AfinaOitD8.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "AfinaOitD7.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "AfinaOitD6.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "AfinaOitD5.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "AfinaOitD4.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "AfinaOitD3.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "AfinaOitD2.wav"
+      },
+      {
+        "id": 8,
+        "symbol": "AfinaOitD1.wav"
+      },
+      {
+        "id": 9,
+        "symbol": "AfinaOitA8.wav"
+      },
+      {
+        "id": 10,
+        "symbol": "AfinaOitA7.wav"
+      },
+      {
+        "id": 11,
+        "symbol": "AfinaOitA6.wav"
+      },
+      {
+        "id": 12,
+        "symbol": "AfinaOitA5.wav"
+      },
+      {
+        "id": 13,
+        "symbol": "AfinaOitA4.wav"
+      },
+      {
+        "id": 14,
+        "symbol": "AfinaOitA3.wav"
+      },
+      {
+        "id": 15,
+        "symbol": "AfinaOitA2.wav"
+      },
+      {
+        "id": 16,
+        "symbol": "AfinaOitA1.wav"
+      }
+    ]
+  },
+  {
+    "file": "AfinacaoQua.swf",
+    "links": [
+      {
+        "authored_target": "Afinacao.swf",
+        "actual_file": "Afinacao.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "AfinaQuaA1.wav",
+        "id": 16,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuaD2.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuaA3.wav",
+        "id": 14,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuaA4.wav",
+        "id": 13,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuaD5.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuaA6.wav",
+        "id": 11,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuaD7.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuaA8.wav",
+        "id": 9,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuaD4.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuaD6.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuaA7.wav",
+        "id": 10,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuaD1.wav",
+        "id": 8,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuaA2.wav",
+        "id": 15,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuaD3.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuaD8.wav",
+        "id": 1,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "AfinaQuaD8.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "AfinaQuaD7.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "AfinaQuaD6.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "AfinaQuaD5.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "AfinaQuaD4.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "AfinaQuaD3.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "AfinaQuaD2.wav"
+      },
+      {
+        "id": 8,
+        "symbol": "AfinaQuaD1.wav"
+      },
+      {
+        "id": 9,
+        "symbol": "AfinaQuaA8.wav"
+      },
+      {
+        "id": 10,
+        "symbol": "AfinaQuaA7.wav"
+      },
+      {
+        "id": 11,
+        "symbol": "AfinaQuaA6.wav"
+      },
+      {
+        "id": 12,
+        "symbol": "AfinaQuaA5.wav"
+      },
+      {
+        "id": 13,
+        "symbol": "AfinaQuaA4.wav"
+      },
+      {
+        "id": 14,
+        "symbol": "AfinaQuaA3.wav"
+      },
+      {
+        "id": 15,
+        "symbol": "AfinaQuaA2.wav"
+      },
+      {
+        "id": 16,
+        "symbol": "AfinaQuaA1.wav"
+      }
+    ]
+  },
+  {
+    "file": "AfinacaoQui.swf",
+    "links": [
+      {
+        "authored_target": "Afinacao.swf",
+        "actual_file": "Afinacao.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "AfinaQuiA1.wav",
+        "id": 16,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuiD2.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuiA3.wav",
+        "id": 14,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuiA4.wav",
+        "id": 13,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuiD5.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuiA6.wav",
+        "id": 11,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuiD7.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuiA8.wav",
+        "id": 9,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuiD4.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuiD6.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuiA7.wav",
+        "id": 10,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuiD1.wav",
+        "id": 8,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuiA2.wav",
+        "id": 15,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuiD3.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaQuiD8.wav",
+        "id": 1,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "AfinaQuiD8.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "AfinaQuiD7.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "AfinaQuiD6.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "AfinaQuiD5.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "AfinaQuiD4.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "AfinaQuiD3.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "AfinaQuiD2.wav"
+      },
+      {
+        "id": 8,
+        "symbol": "AfinaQuiD1.wav"
+      },
+      {
+        "id": 9,
+        "symbol": "AfinaQuiA8.wav"
+      },
+      {
+        "id": 10,
+        "symbol": "AfinaQuiA7.wav"
+      },
+      {
+        "id": 11,
+        "symbol": "AfinaQuiA6.wav"
+      },
+      {
+        "id": 12,
+        "symbol": "AfinaQuiA5.wav"
+      },
+      {
+        "id": 13,
+        "symbol": "AfinaQuiA4.wav"
+      },
+      {
+        "id": 14,
+        "symbol": "AfinaQuiA3.wav"
+      },
+      {
+        "id": 15,
+        "symbol": "AfinaQuiA2.wav"
+      },
+      {
+        "id": 16,
+        "symbol": "AfinaQuiA1.wav"
+      }
+    ]
+  },
+  {
+    "file": "AfinacaoUni.swf",
+    "links": [
+      {
+        "authored_target": "Afinacao.swf",
+        "actual_file": "Afinacao.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "AfinaUniA1.wav",
+        "id": 16,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaUniD2.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaUniA3.wav",
+        "id": 14,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaUniA4.wav",
+        "id": 13,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaUniD5.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaUniA6.wav",
+        "id": 11,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaUniD7.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaUniA8.wav",
+        "id": 9,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaUniD4.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaUniD6.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaUniA7.wav",
+        "id": 10,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaUniD1.wav",
+        "id": 8,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaUniA2.wav",
+        "id": 15,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaUniD3.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "AfinaUniD8.wav",
+        "id": 1,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "AfinaUniD8.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "AfinaUniD7.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "AfinaUniD6.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "AfinaUniD5.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "AfinaUniD4.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "AfinaUniD3.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "AfinaUniD2.wav"
+      },
+      {
+        "id": 8,
+        "symbol": "AfinaUniD1.wav"
+      },
+      {
+        "id": 9,
+        "symbol": "AfinaUniA8.wav"
+      },
+      {
+        "id": 10,
+        "symbol": "AfinaUniA7.wav"
+      },
+      {
+        "id": 11,
+        "symbol": "AfinaUniA6.wav"
+      },
+      {
+        "id": 12,
+        "symbol": "AfinaUniA5.wav"
+      },
+      {
+        "id": 13,
+        "symbol": "AfinaUniA4.wav"
+      },
+      {
+        "id": 14,
+        "symbol": "AfinaUniA3.wav"
+      },
+      {
+        "id": 15,
+        "symbol": "AfinaUniA2.wav"
+      },
+      {
+        "id": 16,
+        "symbol": "AfinaUniA1.wav"
+      }
+    ]
+  },
+  {
+    "file": "ArtiAcent.swf",
+    "links": [
+      {
+        "authored_target": "articulacao.swf",
+        "actual_file": "Articulacao.swf",
+        "exact_case": false
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "ArtiAcen2.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiAcen1.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiAcent1.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "ArtiAcen5.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiAcen6.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiAcen3.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiAcen4.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiAcen7.wav",
+        "id": 1,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [
+      "ArtiAcent1.wav"
+    ],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "ArtiAcen7.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "ArtiAcen6.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "ArtiAcen5.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "ArtiAcen4.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "ArtiAcen3.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "ArtiAcen2.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "ArtiAcen1.wav"
+      }
+    ]
+  },
+  {
+    "file": "Articulacao.swf",
+    "links": [
+      {
+        "authored_target": "TPMmod1.swf",
+        "actual_file": "TPMmod1.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "ArtiStac.swf",
+        "actual_file": "ArtiStac.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "ArtiTenu.swf",
+        "actual_file": "ArtiTenu.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "ArtiVari.swf",
+        "actual_file": "ArtiVari.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "ArtiLiga.swf",
+        "actual_file": "ArtiLiga.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "artiacent.swf",
+        "actual_file": "ArtiAcent.swf",
+        "exact_case": false
+      }
+    ],
+    "embedded_audio_symbols": [],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [
+      {
+        "button": 10,
+        "payload_size": 11
+      },
+      {
+        "button": 16,
+        "payload_size": 11
+      },
+      {
+        "button": 22,
+        "payload_size": 11
+      },
+      {
+        "button": 28,
+        "payload_size": 11
+      },
+      {
+        "button": 34,
+        "payload_size": 11
+      },
+      {
+        "button": 40,
+        "payload_size": 11
+      },
+      {
+        "button": 46,
+        "payload_size": 11
+      },
+      {
+        "button": 51,
+        "payload_size": 11
+      }
+    ],
+    "exports": []
+  },
+  {
+    "file": "ArtiLiga.swf",
+    "links": [
+      {
+        "authored_target": "articulacao.swf",
+        "actual_file": "Articulacao.swf",
+        "exact_case": false
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "ArtiLiga2.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiLiga4.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiLiga5.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiLiga7.wav",
+        "id": 1,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiLiga3.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiLiga1.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiLiga6.wav",
+        "id": 2,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "ArtiLiga7.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "ArtiLiga6.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "ArtiLiga5.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "ArtiLiga4.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "ArtiLiga3.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "ArtiLiga2.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "ArtiLiga1.wav"
+      }
+    ]
+  },
+  {
+    "file": "ArtiStac.swf",
+    "links": [
+      {
+        "authored_target": "articulacao.swf",
+        "actual_file": "Articulacao.swf",
+        "exact_case": false
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "ArtiStacL1.wav",
+        "id": 14,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiStacL3.wav",
+        "id": 12,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiStacL2.wav",
+        "id": 13,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiStacL7.wav",
+        "id": 8,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiStacL4.wav",
+        "id": 11,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiStacL6.wav",
+        "id": 9,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiStacL5.wav",
+        "id": 10,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiStacR1.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiStacR3.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiStacR2.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiStacR7.wav",
+        "id": 1,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiStacR4.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiStacR6.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiStacR5.wav",
+        "id": 3,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "ArtiStacR7.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "ArtiStacR6.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "ArtiStacR5.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "ArtiStacR4.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "ArtiStacR3.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "ArtiStacR2.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "ArtiStacR1.wav"
+      },
+      {
+        "id": 8,
+        "symbol": "ArtiStacL7.wav"
+      },
+      {
+        "id": 9,
+        "symbol": "ArtiStacL6.wav"
+      },
+      {
+        "id": 10,
+        "symbol": "ArtiStacL5.wav"
+      },
+      {
+        "id": 11,
+        "symbol": "ArtiStacL4.wav"
+      },
+      {
+        "id": 12,
+        "symbol": "ArtiStacL3.wav"
+      },
+      {
+        "id": 13,
+        "symbol": "ArtiStacL2.wav"
+      },
+      {
+        "id": 14,
+        "symbol": "ArtiStacL1.wav"
+      }
+    ]
+  },
+  {
+    "file": "ArtiTenu.swf",
+    "links": [
+      {
+        "authored_target": "articulacao.swf",
+        "actual_file": "Articulacao.swf",
+        "exact_case": false
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "ArtiTenu2.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiTenu3.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiTenu1.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiTenu4.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiTenu5.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiTenu7.wav",
+        "id": 1,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiTenu6.wav",
+        "id": 2,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "ArtiTenu7.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "ArtiTenu6.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "ArtiTenu5.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "ArtiTenu4.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "ArtiTenu3.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "ArtiTenu2.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "ArtiTenu1.wav"
+      }
+    ]
+  },
+  {
+    "file": "ArtiVari.swf",
+    "links": [
+      {
+        "authored_target": "articulacao.swf",
+        "actual_file": "Articulacao.swf",
+        "exact_case": false
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "ArtiVari1.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiVari2.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiVari3.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiVari4.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiVari5.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiVari7.wav",
+        "id": 1,
+        "embedded": true
+      },
+      {
+        "symbol": "ArtiVari6.wav",
+        "id": 2,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "ArtiVari7.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "ArtiVari6.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "ArtiVari5.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "ArtiVari4.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "ArtiVari3.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "ArtiVari2.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "ArtiVari1.wav"
+      }
+    ]
+  },
+  {
+    "file": "Cadencia.swf",
+    "links": [
+      {
+        "authored_target": "TPMmod1.swf",
+        "actual_file": "TPMmod1.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "CadPnA1.wav",
+        "id": 9,
+        "embedded": true
+      },
+      {
+        "symbol": "CadPnB1.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "CadPnC1.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "CadPnB2.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "CadPnA2.wav",
+        "id": 8,
+        "embedded": true
+      },
+      {
+        "symbol": "CadPnC2.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "CadPnA3.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "CadPnB3.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "CadPnC3.wav",
+        "id": 1,
+        "embedded": true
+      },
+      {
+        "symbol": "CadCordA1.wav",
+        "id": 27,
+        "embedded": true
+      },
+      {
+        "symbol": "CadCordB1.wav",
+        "id": 24,
+        "embedded": true
+      },
+      {
+        "symbol": "CadCordC1.wav",
+        "id": 21,
+        "embedded": true
+      },
+      {
+        "symbol": "CadCordB2.wav",
+        "id": 23,
+        "embedded": true
+      },
+      {
+        "symbol": "CadCordA2.wav",
+        "id": 26,
+        "embedded": true
+      },
+      {
+        "symbol": "CadCordC2.wav",
+        "id": 20,
+        "embedded": true
+      },
+      {
+        "symbol": "CadCordA3.wav",
+        "id": 25,
+        "embedded": true
+      },
+      {
+        "symbol": "CadMadB3.wav",
+        "id": 13,
+        "embedded": true
+      },
+      {
+        "symbol": "CadMadC3.wav",
+        "id": 10,
+        "embedded": true
+      },
+      {
+        "symbol": "CadMadB1.wav",
+        "id": 15,
+        "embedded": true
+      },
+      {
+        "symbol": "CadMadA2.wav",
+        "id": 17,
+        "embedded": true
+      },
+      {
+        "symbol": "CadMadC1.wav",
+        "id": 12,
+        "embedded": true
+      },
+      {
+        "symbol": "CadMadC2.wav",
+        "id": 11,
+        "embedded": true
+      },
+      {
+        "symbol": "CadMadB2.wav",
+        "id": 14,
+        "embedded": true
+      },
+      {
+        "symbol": "CadMadA3.wav",
+        "id": 16,
+        "embedded": true
+      },
+      {
+        "symbol": "CadMadA1.wav",
+        "id": 18,
+        "embedded": true
+      },
+      {
+        "symbol": "CadCordC3.wav",
+        "id": 19,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "CadPnC3.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "CadPnC2.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "CadPnC1.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "CadPnB3.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "CadPnB2.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "CadPnB1.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "CadPnA3.wav"
+      },
+      {
+        "id": 8,
+        "symbol": "CadPnA2.wav"
+      },
+      {
+        "id": 9,
+        "symbol": "CadPnA1.wav"
+      },
+      {
+        "id": 10,
+        "symbol": "CadMadC3.wav"
+      },
+      {
+        "id": 11,
+        "symbol": "CadMadC2.wav"
+      },
+      {
+        "id": 12,
+        "symbol": "CadMadC1.wav"
+      },
+      {
+        "id": 13,
+        "symbol": "CadMadB3.wav"
+      },
+      {
+        "id": 14,
+        "symbol": "CadMadB2.wav"
+      },
+      {
+        "id": 15,
+        "symbol": "CadMadB1.wav"
+      },
+      {
+        "id": 16,
+        "symbol": "CadMadA3.wav"
+      },
+      {
+        "id": 17,
+        "symbol": "CadMadA2.wav"
+      },
+      {
+        "id": 18,
+        "symbol": "CadMadA1.wav"
+      },
+      {
+        "id": 19,
+        "symbol": "CadCordC3.wav"
+      },
+      {
+        "id": 20,
+        "symbol": "CadCordC2.wav"
+      },
+      {
+        "id": 21,
+        "symbol": "CadCordC1.wav"
+      },
+      {
+        "id": 22,
+        "symbol": "CadCordB3.wav"
+      },
+      {
+        "id": 23,
+        "symbol": "CadCordB2.wav"
+      },
+      {
+        "id": 24,
+        "symbol": "CadCordB1.wav"
+      },
+      {
+        "id": 25,
+        "symbol": "CadCordA3.wav"
+      },
+      {
+        "id": 26,
+        "symbol": "CadCordA2.wav"
+      },
+      {
+        "id": 27,
+        "symbol": "CadCordA1.wav"
+      }
+    ]
+  },
+  {
+    "file": "Dina.swf",
+    "links": [
+      {
+        "authored_target": "TPMmod1.swf",
+        "actual_file": "TPMmod1.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "DinaGlau1.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "DinaGlau2.wav",
+        "id": 1,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "DinaGlau2.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "DinaGlau1.wav"
+      }
+    ]
+  },
+  {
+    "file": "Escala.swf",
+    "links": [
+      {
+        "authored_target": "TPMmod1.swf",
+        "actual_file": "TPMmod1.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "EscFixoCEE.wav",
+        "id": 13,
+        "embedded": true
+      },
+      {
+        "symbol": "EscFixoECE1.wav",
+        "id": 12,
+        "embedded": true
+      },
+      {
+        "symbol": "EscFixoECE2.wav",
+        "id": 11,
+        "embedded": true
+      },
+      {
+        "symbol": "EscFixoECE3.wav",
+        "id": 10,
+        "embedded": true
+      },
+      {
+        "symbol": "EscFixoEEC.wav",
+        "id": 9,
+        "embedded": true
+      },
+      {
+        "symbol": "EscFixoEEE1.wav",
+        "id": 8,
+        "embedded": true
+      },
+      {
+        "symbol": "EscFixoEEE2.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "EscVariaCEE1.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "EscVariaCEE2.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "EscVariaECE1.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "EscVariaECE2.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "EscVariaEEE1.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "EscVariaEEE2.wav",
+        "id": 1,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "EscVariaEEE2.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "EscVariaEEE1.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "EscVariaECE2.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "EscVariaECE1.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "EscVariaCEE2.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "EscVariaCEE1.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "EscFixoEEE2.wav"
+      },
+      {
+        "id": 8,
+        "symbol": "EscFixoEEE1.wav"
+      },
+      {
+        "id": 9,
+        "symbol": "EscFixoEEC.wav"
+      },
+      {
+        "id": 10,
+        "symbol": "EscFixoECE3.wav"
+      },
+      {
+        "id": 11,
+        "symbol": "EscFixoECE2.wav"
+      },
+      {
+        "id": 12,
+        "symbol": "EscFixoECE1.wav"
+      },
+      {
+        "id": 13,
+        "symbol": "EscFixoCEE.wav"
+      }
+    ]
+  },
+  {
+    "file": "Intervalo.swf",
+    "links": [
+      {
+        "authored_target": "IntFixo1458.swf",
+        "actual_file": "IntFixo1458.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "IntFixo3MaMe.swf",
+        "actual_file": "IntFixo3MaMe.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "IntSegUniOit.swf",
+        "actual_file": "IntSegUniOit.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "IntSegQuaQui.swf",
+        "actual_file": "IntSegQuaQui.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "IntJuntUniOit.swf",
+        "actual_file": "IntJuntUniOit.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "IntJuntQuaQui.swf",
+        "actual_file": "IntJuntQuaQui.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "IntJunt3MaMe.swf",
+        "actual_file": "IntJunt3MaMe.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "TPMmod1.swf",
+        "actual_file": "TPMmod1.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [
+      {
+        "button": 7,
+        "payload_size": 11
+      },
+      {
+        "button": 16,
+        "payload_size": 11
+      },
+      {
+        "button": 22,
+        "payload_size": 11
+      },
+      {
+        "button": 28,
+        "payload_size": 11
+      },
+      {
+        "button": 34,
+        "payload_size": 11
+      },
+      {
+        "button": 40,
+        "payload_size": 11
+      },
+      {
+        "button": 45,
+        "payload_size": 11
+      },
+      {
+        "button": 51,
+        "payload_size": 11
+      }
+    ],
+    "exports": []
+  },
+  {
+    "file": "IntFixo1458.swf",
+    "links": [
+      {
+        "authored_target": "Intervalo.swf",
+        "actual_file": "Intervalo.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "IntFixo1A.wav",
+        "id": 8,
+        "embedded": true
+      },
+      {
+        "symbol": "IntFixo1B.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "IntFixo8A.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "IntFixo8B.wav",
+        "id": 1,
+        "embedded": true
+      },
+      {
+        "symbol": "IntFixo5A.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "IntFixo5B.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "IntFixo4A.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "IntFixo4B.wav",
+        "id": 5,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "IntFixo8B.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "IntFixo8A.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "IntFixo5B.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "IntFixo5A.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "IntFixo4B.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "IntFixo4A.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "IntFixo1B.wav"
+      },
+      {
+        "id": 8,
+        "symbol": "IntFixo1A.wav"
+      }
+    ]
+  },
+  {
+    "file": "IntFixo3MaMe.swf",
+    "links": [
+      {
+        "authored_target": "Intervalo.swf",
+        "actual_file": "Intervalo.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "IntFixoTercasMaMeMe.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "IntFixoTercasMeMaMe.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "IntFixoTercasMeMeMa.wav",
+        "id": 1,
+        "embedded": true
+      },
+      {
+        "symbol": "IntFixoTercasMeMaMa.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "IntFixoTercasMaMeMa.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "IntFixoTercasMaMaMe.wav",
+        "id": 6,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "IntFixoTercasMeMeMa.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "IntFixoTercasMeMaMe.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "IntFixoTercasMeMaMa.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "IntFixoTercasMaMeMe.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "IntFixoTercasMaMeMa.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "IntFixoTercasMaMaMe.wav"
+      }
+    ]
+  },
+  {
+    "file": "IntJunt3MaMe.swf",
+    "links": [
+      {
+        "authored_target": "Intervalo.swf",
+        "actual_file": "Intervalo.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "IntJunt3Me1.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJunt3Ma1.wav",
+        "id": 9,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJunt3Me2.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJunt3Ma2.wav",
+        "id": 8,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJunt3Ma3.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJunt3Me3.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJunt3Ma4.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJunt3Me4.wav",
+        "id": 1,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJunt3MaMaMeMeMeMaMeMa.wav",
+        "id": 5,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "IntJunt3Me4.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "IntJunt3Me3.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "IntJunt3Me2.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "IntJunt3Me1.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "IntJunt3MaMaMeMeMeMaMeMa.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "IntJunt3Ma4.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "IntJunt3Ma3.wav"
+      },
+      {
+        "id": 8,
+        "symbol": "IntJunt3Ma2.wav"
+      },
+      {
+        "id": 9,
+        "symbol": "IntJunt3Ma1.wav"
+      }
+    ]
+  },
+  {
+    "file": "IntJuntQuaQui.swf",
+    "links": [
+      {
+        "authored_target": "Intervalo.swf",
+        "actual_file": "Intervalo.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "IntJuntQuaJ1.wav",
+        "id": 16,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntQuiJ1.wav",
+        "id": 8,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntQuaJ2.wav",
+        "id": 15,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntQuiJ2.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntQuiJ3.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntQuaJ3.wav",
+        "id": 14,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntQuiJ4.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntQuaJ4.wav",
+        "id": 13,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntQuaJ5.wav",
+        "id": 12,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntQuaJ8.wav",
+        "id": 9,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntQuiJ5.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntQuaJ6.wav",
+        "id": 11,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntQuiJ6.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntQuiJ7.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntQuaJ7.wav",
+        "id": 10,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntQuiJ8.wav",
+        "id": 1,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "IntJuntQuiJ8.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "IntJuntQuiJ7.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "IntJuntQuiJ6.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "IntJuntQuiJ5.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "IntJuntQuiJ4.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "IntJuntQuiJ3.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "IntJuntQuiJ2.wav"
+      },
+      {
+        "id": 8,
+        "symbol": "IntJuntQuiJ1.wav"
+      },
+      {
+        "id": 9,
+        "symbol": "IntJuntQuaJ8.wav"
+      },
+      {
+        "id": 10,
+        "symbol": "IntJuntQuaJ7.wav"
+      },
+      {
+        "id": 11,
+        "symbol": "IntJuntQuaJ6.wav"
+      },
+      {
+        "id": 12,
+        "symbol": "IntJuntQuaJ5.wav"
+      },
+      {
+        "id": 13,
+        "symbol": "IntJuntQuaJ4.wav"
+      },
+      {
+        "id": 14,
+        "symbol": "IntJuntQuaJ3.wav"
+      },
+      {
+        "id": 15,
+        "symbol": "IntJuntQuaJ2.wav"
+      },
+      {
+        "id": 16,
+        "symbol": "IntJuntQuaJ1.wav"
+      }
+    ]
+  },
+  {
+    "file": "IntJuntUniOit.swf",
+    "links": [
+      {
+        "authored_target": "Intervalo.swf",
+        "actual_file": "Intervalo.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "IntJuntUni1.wav",
+        "id": 8,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntOit1.wav",
+        "id": 16,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntUni2.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntOit2.wav",
+        "id": 15,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntOit3.wav",
+        "id": 14,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntUni3.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntOit4.wav",
+        "id": 13,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntUni4.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntUni5.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntOit5.wav",
+        "id": 12,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntUni6.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntOit6.wav",
+        "id": 11,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntOit7.wav",
+        "id": 10,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntUni7.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntUni8.wav",
+        "id": 1,
+        "embedded": true
+      },
+      {
+        "symbol": "IntJuntOit8.wav",
+        "id": 9,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "IntJuntUni8.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "IntJuntUni7.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "IntJuntUni6.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "IntJuntUni5.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "IntJuntUni4.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "IntJuntUni3.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "IntJuntUni2.wav"
+      },
+      {
+        "id": 8,
+        "symbol": "IntJuntUni1.wav"
+      },
+      {
+        "id": 9,
+        "symbol": "IntJuntOit8.wav"
+      },
+      {
+        "id": 10,
+        "symbol": "IntJuntOit7.wav"
+      },
+      {
+        "id": 11,
+        "symbol": "IntJuntOit6.wav"
+      },
+      {
+        "id": 12,
+        "symbol": "IntJuntOit5.wav"
+      },
+      {
+        "id": 13,
+        "symbol": "IntJuntOit4.wav"
+      },
+      {
+        "id": 14,
+        "symbol": "IntJuntOit3.wav"
+      },
+      {
+        "id": 15,
+        "symbol": "IntJuntOit2.wav"
+      },
+      {
+        "id": 16,
+        "symbol": "IntJuntOit1.wav"
+      }
+    ]
+  },
+  {
+    "file": "IntSegQuaQui.swf",
+    "links": [
+      {
+        "authored_target": "Intervalo.swf",
+        "actual_file": "Intervalo.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "IntSegQuaJ1.wav",
+        "id": 16,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegQuiJ1.wav",
+        "id": 8,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegQuaJ2.wav",
+        "id": 15,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegQuiJ2.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegQuiJ3.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegQuaJ3.wav",
+        "id": 14,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegQuiJ4.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegQuaJ4.wav",
+        "id": 13,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegQuaJ5.wav",
+        "id": 12,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegQuaJ8.wav",
+        "id": 9,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegQuiJ5.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegQuaJ6.wav",
+        "id": 11,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegQuiJ6.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegQuiJ7.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegQuaJ7.wav",
+        "id": 10,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegQuiJ8.wav",
+        "id": 1,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "IntSegQuiJ8.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "IntSegQuiJ7.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "IntSegQuiJ6.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "IntSegQuiJ5.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "IntSegQuiJ4.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "IntSegQuiJ3.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "IntSegQuiJ2.wav"
+      },
+      {
+        "id": 8,
+        "symbol": "IntSegQuiJ1.wav"
+      },
+      {
+        "id": 9,
+        "symbol": "IntSegQuaJ8.wav"
+      },
+      {
+        "id": 10,
+        "symbol": "IntSegQuaJ7.wav"
+      },
+      {
+        "id": 11,
+        "symbol": "IntSegQuaJ6.wav"
+      },
+      {
+        "id": 12,
+        "symbol": "IntSegQuaJ5.wav"
+      },
+      {
+        "id": 13,
+        "symbol": "IntSegQuaJ4.wav"
+      },
+      {
+        "id": 14,
+        "symbol": "IntSegQuaJ3.wav"
+      },
+      {
+        "id": 15,
+        "symbol": "IntSegQuaJ2.wav"
+      },
+      {
+        "id": 16,
+        "symbol": "IntSegQuaJ1.wav"
+      }
+    ]
+  },
+  {
+    "file": "IntSegUniOit.swf",
+    "links": [
+      {
+        "authored_target": "Intervalo.swf",
+        "actual_file": "Intervalo.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "IntSegUni1.wav",
+        "id": 8,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegOit1.wav",
+        "id": 16,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegUni2.wav",
+        "id": 7,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegOit2.wav",
+        "id": 15,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegOit3.wav",
+        "id": 14,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegUni3.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegOit4.wav",
+        "id": 13,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegUni4.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegUni5.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegOit5.wav",
+        "id": 12,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegUni6.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegOit6.wav",
+        "id": 11,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegOit7.wav",
+        "id": 10,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegUni7.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegUni8.wav",
+        "id": 1,
+        "embedded": true
+      },
+      {
+        "symbol": "IntSegOit8.wav",
+        "id": 9,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "IntSegUni8.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "IntSegUni7.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "IntSegUni6.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "IntSegUni5.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "IntSegUni4.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "IntSegUni3.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "IntSegUni2.wav"
+      },
+      {
+        "id": 8,
+        "symbol": "IntSegUni1.wav"
+      },
+      {
+        "id": 9,
+        "symbol": "IntSegOit8.wav"
+      },
+      {
+        "id": 10,
+        "symbol": "IntSegOit7.wav"
+      },
+      {
+        "id": 11,
+        "symbol": "IntSegOit6.wav"
+      },
+      {
+        "id": 12,
+        "symbol": "IntSegOit5.wav"
+      },
+      {
+        "id": 13,
+        "symbol": "IntSegOit4.wav"
+      },
+      {
+        "id": 14,
+        "symbol": "IntSegOit3.wav"
+      },
+      {
+        "id": 15,
+        "symbol": "IntSegOit2.wav"
+      },
+      {
+        "id": 16,
+        "symbol": "IntSegOit1.wav"
+      }
+    ]
+  },
+  {
+    "file": "Modulacao.swf",
+    "links": [
+      {
+        "authored_target": "TPMmod1.swf",
+        "actual_file": "TPMmod1.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "TPMmod1.swf",
+        "actual_file": "TPMmod1.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "ModChopin1.wav",
+        "id": 3,
+        "embedded": true
+      },
+      {
+        "symbol": "ModChopin2.wav",
+        "id": 2,
+        "embedded": true
+      },
+      {
+        "symbol": "ModChopin3.wav",
+        "id": 1,
+        "embedded": true
+      },
+      {
+        "symbol": "ModBeeth1.wav",
+        "id": 6,
+        "embedded": true
+      },
+      {
+        "symbol": "ModBeeth2.wav",
+        "id": 5,
+        "embedded": true
+      },
+      {
+        "symbol": "ModBeeth3.wav",
+        "id": 4,
+        "embedded": true
+      },
+      {
+        "symbol": "ModBach1.wav",
+        "id": 7,
+        "embedded": true
+      }
+    ],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "ModChopin3.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "ModChopin2.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "ModChopin1.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "ModBeeth3.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "ModBeeth2.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "ModBeeth1.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "ModBach1.wav"
+      }
+    ]
+  },
+  {
+    "file": "Notas.swf",
+    "links": [
+      {
+        "authored_target": "TPMmod1.swf",
+        "actual_file": "TPMmod1.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [
+      {
+        "symbol": "notacoro01.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro02.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro03.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro04.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro05.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro06.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro07.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro08.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro09.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro10.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro11.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro12.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro13.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro14.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro15.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro16.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro17.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro18.wav",
+        "id": null,
+        "embedded": false
+      },
+      {
+        "symbol": "notacoro20.wav",
+        "id": null,
+        "embedded": false
+      }
+    ],
+    "unresolved_audio_symbols": [
+      "notacoro01.wav",
+      "notacoro02.wav",
+      "notacoro03.wav",
+      "notacoro04.wav",
+      "notacoro05.wav",
+      "notacoro06.wav",
+      "notacoro07.wav",
+      "notacoro08.wav",
+      "notacoro09.wav",
+      "notacoro10.wav",
+      "notacoro11.wav",
+      "notacoro12.wav",
+      "notacoro13.wav",
+      "notacoro14.wav",
+      "notacoro15.wav",
+      "notacoro16.wav",
+      "notacoro17.wav",
+      "notacoro18.wav",
+      "notacoro20.wav"
+    ],
+    "imports": [],
+    "button_sound_tags": [
+      {
+        "button": 79,
+        "payload_size": 11
+      },
+      {
+        "button": 85,
+        "payload_size": 11
+      },
+      {
+        "button": 91,
+        "payload_size": 11
+      },
+      {
+        "button": 97,
+        "payload_size": 11
+      },
+      {
+        "button": 103,
+        "payload_size": 11
+      },
+      {
+        "button": 109,
+        "payload_size": 11
+      },
+      {
+        "button": 115,
+        "payload_size": 11
+      },
+      {
+        "button": 120,
+        "payload_size": 11
+      },
+      {
+        "button": 126,
+        "payload_size": 11
+      },
+      {
+        "button": 131,
+        "payload_size": 11
+      },
+      {
+        "button": 139,
+        "payload_size": 11
+      }
+    ],
+    "exports": [
+      {
+        "id": 1,
+        "symbol": "NotaCoro20.wav"
+      },
+      {
+        "id": 2,
+        "symbol": "NotaCoro19.wav"
+      },
+      {
+        "id": 3,
+        "symbol": "NotaCoro18.wav"
+      },
+      {
+        "id": 4,
+        "symbol": "NotaCoro17.wav"
+      },
+      {
+        "id": 5,
+        "symbol": "NotaCoro16.wav"
+      },
+      {
+        "id": 6,
+        "symbol": "NotaCoro15.wav"
+      },
+      {
+        "id": 7,
+        "symbol": "NotaCoro14.wav"
+      },
+      {
+        "id": 8,
+        "symbol": "NotaCoro13.wav"
+      },
+      {
+        "id": 9,
+        "symbol": "NotaCoro12.wav"
+      },
+      {
+        "id": 10,
+        "symbol": "NotaCoro11.wav"
+      },
+      {
+        "id": 11,
+        "symbol": "NotaCoro10.wav"
+      },
+      {
+        "id": 12,
+        "symbol": "NotaCoro09.wav"
+      },
+      {
+        "id": 13,
+        "symbol": "NotaCoro08.wav"
+      },
+      {
+        "id": 14,
+        "symbol": "NotaCoro07.wav"
+      },
+      {
+        "id": 15,
+        "symbol": "NotaCoro06.wav"
+      },
+      {
+        "id": 16,
+        "symbol": "NotaCoro05.wav"
+      },
+      {
+        "id": 17,
+        "symbol": "NotaCoro04.wav"
+      },
+      {
+        "id": 18,
+        "symbol": "NotaCoro03.wav"
+      },
+      {
+        "id": 19,
+        "symbol": "NotaCoro02.wav"
+      },
+      {
+        "id": 20,
+        "symbol": "NotaCoro01.wav"
+      }
+    ]
+  },
+  {
+    "file": "PianoMelhor.swf",
+    "links": [],
+    "embedded_audio_symbols": [],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [
+      {
+        "button": 7,
+        "payload_size": 11
+      },
+      {
+        "button": 13,
+        "payload_size": 11
+      },
+      {
+        "button": 19,
+        "payload_size": 11
+      },
+      {
+        "button": 25,
+        "payload_size": 11
+      },
+      {
+        "button": 31,
+        "payload_size": 11
+      },
+      {
+        "button": 37,
+        "payload_size": 11
+      },
+      {
+        "button": 43,
+        "payload_size": 11
+      },
+      {
+        "button": 48,
+        "payload_size": 11
+      }
+    ],
+    "exports": []
+  },
+  {
+    "file": "TPMmod1.swf",
+    "links": [
+      {
+        "authored_target": "Articulacao.swf",
+        "actual_file": "Articulacao.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "Dina.swf",
+        "actual_file": "Dina.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "Afinacao.swf",
+        "actual_file": "Afinacao.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "Notas.swf",
+        "actual_file": "Notas.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "Intervalo.swf",
+        "actual_file": "Intervalo.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "Escala.swf",
+        "actual_file": "Escala.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "Cadencia.swf",
+        "actual_file": "Cadencia.swf",
+        "exact_case": true
+      },
+      {
+        "authored_target": "Modulacao.swf",
+        "actual_file": "Modulacao.swf",
+        "exact_case": true
+      }
+    ],
+    "embedded_audio_symbols": [],
+    "unresolved_audio_symbols": [],
+    "imports": [],
+    "button_sound_tags": [
+      {
+        "button": 40,
+        "payload_size": 11
+      },
+      {
+        "button": 46,
+        "payload_size": 11
+      },
+      {
+        "button": 52,
+        "payload_size": 11
+      },
+      {
+        "button": 58,
+        "payload_size": 11
+      },
+      {
+        "button": 64,
+        "payload_size": 11
+      },
+      {
+        "button": 70,
+        "payload_size": 11
+      },
+      {
+        "button": 76,
+        "payload_size": 11
+      },
+      {
+        "button": 81,
+        "payload_size": 11
+      }
+    ],
+    "exports": []
+  }
+]

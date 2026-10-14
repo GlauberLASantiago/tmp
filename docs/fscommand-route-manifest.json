@@ -1,0 +1,1347 @@
+[
+  {
+    "file": "Abre.swf",
+    "original_sha256": "0385299791abbed2612c5562c4e872cc34df11bfd142aff43ce085ac69e85abc",
+    "web_sha256": "69c8340e1780aa3892194c2de25daafc61be1f1a693cde33467ec4958db6637e",
+    "original_size": 332821,
+    "web_size": 332925,
+    "changes": [
+      {
+        "location": "root/tag34[120]@226010/button85/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Articulacao.swf",
+        "module": "Articulacao.swf",
+        "before_hex": "8318004172746963756c6163616f2e737766005f6c6576656c3000",
+        "after_hex": "8325004653436f6d6d616e643a6c6f61644d6f64756c65004172746963756c6163616f2e73776600"
+      },
+      {
+        "location": "root/tag34[125]@226256/button89/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Dina.swf",
+        "module": "Dina.swf",
+        "before_hex": "83110044696e612e737766005f6c6576656c3000",
+        "after_hex": "831e004653436f6d6d616e643a6c6f61644d6f64756c650044696e612e73776600"
+      },
+      {
+        "location": "root/tag34[130]@226503/button93/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Afinacao.swf",
+        "module": "Afinacao.swf",
+        "before_hex": "8315004166696e6163616f2e737766005f6c6576656c3000",
+        "after_hex": "8322004653436f6d6d616e643a6c6f61644d6f64756c65004166696e6163616f2e73776600"
+      },
+      {
+        "location": "root/tag34[135]@226728/button97/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Notas.swf",
+        "module": "Notas.swf",
+        "before_hex": "8312004e6f7461732e737766005f6c6576656c3000",
+        "after_hex": "831f004653436f6d6d616e643a6c6f61644d6f64756c65004e6f7461732e73776600"
+      },
+      {
+        "location": "root/tag34[140]@226985/button101/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Intervalo.swf",
+        "module": "Intervalo.swf",
+        "before_hex": "831600496e74657276616c6f2e737766005f6c6576656c3000",
+        "after_hex": "8323004653436f6d6d616e643a6c6f61644d6f64756c6500496e74657276616c6f2e73776600"
+      },
+      {
+        "location": "root/tag34[145]@227220/button105/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Escala.swf",
+        "module": "Escala.swf",
+        "before_hex": "831300457363616c612e737766005f6c6576656c3000",
+        "after_hex": "8320004653436f6d6d616e643a6c6f61644d6f64756c6500457363616c612e73776600"
+      },
+      {
+        "location": "root/tag34[150]@227506/button109/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Cadencia.swf",
+        "module": "Cadencia.swf",
+        "before_hex": "831500436164656e6369612e737766005f6c6576656c3000",
+        "after_hex": "8322004653436f6d6d616e643a6c6f61644d6f64756c6500436164656e6369612e73776600"
+      },
+      {
+        "location": "root/tag34[155]@227758/button113/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Modulacao.swf",
+        "module": "Modulacao.swf",
+        "before_hex": "8316004d6f64756c6163616f2e737766005f6c6576656c3000",
+        "after_hex": "8323004653436f6d6d616e643a6c6f61644d6f64756c65004d6f64756c6163616f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[120]@226010",
+        "tag": 34,
+        "before_payload_sha256": "e31dbea747c447bfe341ddc08b3b0e36319be16af07dc8b9ede941cb33f84206",
+        "after_payload_sha256": "28fd1eb60f521e8b339812213cedb519df3b653552c1937f4dd6982b2b82298f",
+        "before_payload_size": 89,
+        "after_payload_size": 102,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[125]@226256",
+        "tag": 34,
+        "before_payload_sha256": "dd4a4ca45d84ca2bf246d0872a3d041f7a12f501002e0d42bea40c4b1aedc78b",
+        "after_payload_sha256": "b58fe2461e01d24241bc3d43a40afcd8aaa4f74a7b2fcf3e2708767e927f340f",
+        "before_payload_size": 78,
+        "after_payload_size": 91,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[130]@226503",
+        "tag": 34,
+        "before_payload_sha256": "15a6ae28097e82620fa184f5c2591b63e5cc92b5ef628cf9b30651e442390d2e",
+        "after_payload_sha256": "ba2d23d62fc0efb8bf70e3e86d00b3d9825490519e267ca1ec673f60766861a9",
+        "before_payload_size": 82,
+        "after_payload_size": 95,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[135]@226728",
+        "tag": 34,
+        "before_payload_sha256": "ea522a731bce8b503ab983ef3b8100201a06a5047a24ee905fbe53e0609c9d7f",
+        "after_payload_sha256": "acd0bbb1729e761d3f522513a55d77586e52a057ae137d3aded0bc87caf4fd99",
+        "before_payload_size": 79,
+        "after_payload_size": 92,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[140]@226985",
+        "tag": 34,
+        "before_payload_sha256": "1a2fe6a8a7c6eb87f9d775c25c8be6e9727c5335154ebe5d743cae93b05e9c7f",
+        "after_payload_sha256": "4a5c4881bd70c65fd02cfc0a7bdd2a5af7cbda80c91403fae0f6bf4a0bf961ef",
+        "before_payload_size": 83,
+        "after_payload_size": 96,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[145]@227220",
+        "tag": 34,
+        "before_payload_sha256": "67d95c405520c1d69b2127bbdd5cc28df1275ce9865645c6fc690778de205322",
+        "after_payload_sha256": "6a5347861ff082b8046a04171a49660238b60dadcbcab48b15c869c1973da221",
+        "before_payload_size": 80,
+        "after_payload_size": 93,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[150]@227506",
+        "tag": 34,
+        "before_payload_sha256": "aa5d9532b795beb6889b2d3d08cf528b1a1ef7a4b73d467b16f5a152aa38d9c7",
+        "after_payload_sha256": "c1730fc28377a617af5fb37de3e98453cd8e2f1dd202a10d06dc43c7cb6fac92",
+        "before_payload_size": 86,
+        "after_payload_size": 99,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[155]@227758",
+        "tag": 34,
+        "before_payload_sha256": "fff7f44b18d64dda1e5f58e31a0f6cab24d419a7bf6fa5acbbf8a5725d858e25",
+        "after_payload_sha256": "41b71b657863fc5409432c6d21e7a2a8b787b459472577ae09e2be1b9a6c6bd7",
+        "before_payload_size": 83,
+        "after_payload_size": 96,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "Afinacao.swf",
+    "original_sha256": "03579b42210b4eab3cb8af13bc42799b9c57a12628aac5f03094edb6c80a60c1",
+    "web_sha256": "a40866910796c7cbd3a18ff14aaf64cfe7be21d1dd8ec4eb346210483bca8d7d",
+    "original_size": 225135,
+    "web_size": 225200,
+    "changes": [
+      {
+        "location": "root/tag34[96]@223184/button65/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "TPMmod1.swf",
+        "module": "TPMmod1.swf",
+        "before_hex": "83140054504d6d6f64312e737766005f6c6576656c3000",
+        "after_hex": "8321004653436f6d6d616e643a6c6f61644d6f64756c650054504d6d6f64312e73776600"
+      },
+      {
+        "location": "root/tag34[109]@224025/button76/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "AfinacaoUni.swf",
+        "module": "AfinacaoUni.swf",
+        "before_hex": "8318004166696e6163616f556e692e737766005f6c6576656c3000",
+        "after_hex": "8325004653436f6d6d616e643a6c6f61644d6f64756c65004166696e6163616f556e692e73776600"
+      },
+      {
+        "location": "root/tag34[114]@224358/button80/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "AfinacaoOit.swf",
+        "module": "AfinacaoOit.swf",
+        "before_hex": "8318004166696e6163616f4f69742e737766005f6c6576656c3000",
+        "after_hex": "8325004653436f6d6d616e643a6c6f61644d6f64756c65004166696e6163616f4f69742e73776600"
+      },
+      {
+        "location": "root/tag34[119]@224691/button84/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "AfinacaoQui.swf",
+        "module": "AfinacaoQui.swf",
+        "before_hex": "8318004166696e6163616f5175692e737766005f6c6576656c3000",
+        "after_hex": "8325004653436f6d6d616e643a6c6f61644d6f64756c65004166696e6163616f5175692e73776600"
+      },
+      {
+        "location": "root/tag34[124]@225024/button88/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "AfinacaoQua.swf",
+        "module": "AfinacaoQua.swf",
+        "before_hex": "8318004166696e6163616f5175612e737766005f6c6576656c3000",
+        "after_hex": "8325004653436f6d6d616e643a6c6f61644d6f64756c65004166696e6163616f5175612e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[96]@223184",
+        "tag": 34,
+        "before_payload_sha256": "647c9baa6447670031a5501c4e1c147499f75ba223bad15ba31faa881bdfe3b7",
+        "after_payload_sha256": "28b6e00a5e69e1190da23ca1284c60e8ae2bade12a550462537fb4507c35127d",
+        "before_payload_size": 124,
+        "after_payload_size": 137,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[109]@224025",
+        "tag": 34,
+        "before_payload_sha256": "d4dd688e44e7835ee7fb3593d184880cb8d9d7a3bd87e7e972a719842a3f1fe4",
+        "after_payload_sha256": "9e5eed56bfee9e730cacfbf6b3e5981d6eb53df0d318680f429fa875b0b0b968",
+        "before_payload_size": 89,
+        "after_payload_size": 102,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[114]@224358",
+        "tag": 34,
+        "before_payload_sha256": "6848bd23f27970c3eeefd5724afbc93e6344397f8da2088ca1a2461fbffa7454",
+        "after_payload_sha256": "b5dd57dc15169b840bf0ffc2103ae860c2e3e92c6eafd1a877eecbaa392cccb6",
+        "before_payload_size": 89,
+        "after_payload_size": 102,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[119]@224691",
+        "tag": 34,
+        "before_payload_sha256": "30698f5095aeba160c24bb1d4489bde9466a9b8e25bed29dd0ad3b2f3d6ce347",
+        "after_payload_sha256": "1d86baa8909467fce3ff6ab8e151579b9820e3c112c07405b15690ffab60cc23",
+        "before_payload_size": 89,
+        "after_payload_size": 102,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[124]@225024",
+        "tag": 34,
+        "before_payload_sha256": "451ec0906aa88bcc095f8c147c50523330881afacd87ba08aa9bc1a602ee25e8",
+        "after_payload_sha256": "103f449cba8f531aa035ac7061f789feeffe79812ff22b56e7ac85c60428808c",
+        "before_payload_size": 89,
+        "after_payload_size": 102,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "AfinacaoOit.swf",
+    "original_sha256": "7544d7639a8798793993818dee781b821feed34f4e70ecd4a549ad7e7a528335",
+    "web_sha256": "c0f184708f493ae47192764262bc20cfec1fb30b171a2dda051240d6b0b28026",
+    "original_size": 958888,
+    "web_size": 958901,
+    "changes": [
+      {
+        "location": "root/tag34[63]@949786/button37/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "Afinacao.swf",
+        "module": "Afinacao.swf",
+        "before_hex": "8315004166696e6163616f2e737766005f6c6576656c3000",
+        "after_hex": "8322004653436f6d6d616e643a6c6f61644d6f64756c65004166696e6163616f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[63]@949786",
+        "tag": 34,
+        "before_payload_sha256": "feb430ea3bc95b5bb65187a7b2eea91cd8e25585a2d3dc2026977c169508c2a8",
+        "after_payload_sha256": "c1409374ce933f7a8c6e2d9bd6f577dc93f55e0c41437dc369c3123d15cc8a9b",
+        "before_payload_size": 125,
+        "after_payload_size": 138,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "AfinacaoQua.swf",
+    "original_sha256": "1e6d4b25467a28c335ab8276e56a7b789292475b5b49016c64ccf605093c0a99",
+    "web_sha256": "b374930d66f2b1cc5be6f2f6222d6acf5c047d36a8b797438ca85fcd8de37b13",
+    "original_size": 966534,
+    "web_size": 966547,
+    "changes": [
+      {
+        "location": "root/tag34[72]@957742/button45/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "Afinacao.swf",
+        "module": "Afinacao.swf",
+        "before_hex": "8315004166696e6163616f2e737766005f6c6576656c3000",
+        "after_hex": "8322004653436f6d6d616e643a6c6f61644d6f64756c65004166696e6163616f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[72]@957742",
+        "tag": 34,
+        "before_payload_sha256": "3592e990d7f40476c89e3e99d9a80a39cbb63ba2fdf6b3f5342edad44db720ae",
+        "after_payload_sha256": "6af2634bf7dc790ac99711906c5bba639daaec13f5fa9d55595a66c3572a74b9",
+        "before_payload_size": 125,
+        "after_payload_size": 138,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "AfinacaoQui.swf",
+    "original_sha256": "5652b9d210983866516220b323614ea5eeeef1ffb83394fb578b41f8f83720f1",
+    "web_sha256": "a65ae0d0fc91123749dbdff4817f5c665c503e091e6ce8f050cc714a5eec22c9",
+    "original_size": 964374,
+    "web_size": 964387,
+    "changes": [
+      {
+        "location": "root/tag34[63]@955210/button37/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "Afinacao.swf",
+        "module": "Afinacao.swf",
+        "before_hex": "8315004166696e6163616f2e737766005f6c6576656c3000",
+        "after_hex": "8322004653436f6d6d616e643a6c6f61644d6f64756c65004166696e6163616f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[63]@955210",
+        "tag": 34,
+        "before_payload_sha256": "feb430ea3bc95b5bb65187a7b2eea91cd8e25585a2d3dc2026977c169508c2a8",
+        "after_payload_sha256": "c1409374ce933f7a8c6e2d9bd6f577dc93f55e0c41437dc369c3123d15cc8a9b",
+        "before_payload_size": 125,
+        "after_payload_size": 138,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "AfinacaoUni.swf",
+    "original_sha256": "ec1d56815170bd48433de7b3b6691ae5a7df7fa92ef7d57775d9e589b7d13a71",
+    "web_sha256": "3eb246934d94f71c2fe150cd2216bdbffbecba84602b5229527253f5cdfd6b7b",
+    "original_size": 972165,
+    "web_size": 972178,
+    "changes": [
+      {
+        "location": "root/tag34[72]@963672/button45/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "Afinacao.swf",
+        "module": "Afinacao.swf",
+        "before_hex": "8315004166696e6163616f2e737766005f6c6576656c3000",
+        "after_hex": "8322004653436f6d6d616e643a6c6f61644d6f64756c65004166696e6163616f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[72]@963672",
+        "tag": 34,
+        "before_payload_sha256": "3592e990d7f40476c89e3e99d9a80a39cbb63ba2fdf6b3f5342edad44db720ae",
+        "after_payload_sha256": "6af2634bf7dc790ac99711906c5bba639daaec13f5fa9d55595a66c3572a74b9",
+        "before_payload_size": 125,
+        "after_payload_size": 138,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "ArtiAcent.swf",
+    "original_sha256": "07d678295fa99eb073612587572d356f142c147ffed7f165d7e2a709645afcca",
+    "web_sha256": "f81e23634cd8b505af2be62b564c8da7c2e1332354e271b834b2d34819275808",
+    "original_size": 1858033,
+    "web_size": 1858046,
+    "changes": [
+      {
+        "location": "root/tag34[73]@1798641/button38/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "articulacao.swf",
+        "module": "Articulacao.swf",
+        "before_hex": "8318006172746963756c6163616f2e737766005f6c6576656c3000",
+        "after_hex": "8325004653436f6d6d616e643a6c6f61644d6f64756c65004172746963756c6163616f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[73]@1798641",
+        "tag": 34,
+        "before_payload_sha256": "f97fe65d23cc0344f4b827e128620b6ad4cb241da91e76e482b76e37b6a90ec4",
+        "after_payload_sha256": "cf931b28d32dd68a4fdfd673c88c20ad4862d1a775e533664889cbd828452609",
+        "before_payload_size": 128,
+        "after_payload_size": 141,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "Articulacao.swf",
+    "original_sha256": "e5a9c25bfb450270fa6bbf6fc94fc2a4319f165741c114eb06adb867beb244a6",
+    "web_sha256": "80d63243f92e336132e28dc39331a022c34b3777d92b5c3add559f9c2c7dbf43",
+    "original_size": 221954,
+    "web_size": 222032,
+    "changes": [
+      {
+        "location": "root/tag34[86]@219999/button64/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "TPMmod1.swf",
+        "module": "TPMmod1.swf",
+        "before_hex": "83140054504d6d6f64312e737766005f6c6576656c3000",
+        "after_hex": "8321004653436f6d6d616e643a6c6f61644d6f64756c650054504d6d6f64312e73776600"
+      },
+      {
+        "location": "root/tag34[99]@220771/button75/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "ArtiStac.swf",
+        "module": "ArtiStac.swf",
+        "before_hex": "83150041727469537461632e737766005f6c6576656c3000",
+        "after_hex": "8322004653436f6d6d616e643a6c6f61644d6f64756c650041727469537461632e73776600"
+      },
+      {
+        "location": "root/tag34[104]@220998/button79/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "ArtiTenu.swf",
+        "module": "ArtiTenu.swf",
+        "before_hex": "8315004172746954656e752e737766005f6c6576656c3000",
+        "after_hex": "8322004653436f6d6d616e643a6c6f61644d6f64756c65004172746954656e752e73776600"
+      },
+      {
+        "location": "root/tag34[109]@221298/button83/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "ArtiVari.swf",
+        "module": "ArtiVari.swf",
+        "before_hex": "83150041727469566172692e737766005f6c6576656c3000",
+        "after_hex": "8322004653436f6d6d616e643a6c6f61644d6f64756c650041727469566172692e73776600"
+      },
+      {
+        "location": "root/tag34[114]@221618/button87/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "ArtiLiga.swf",
+        "module": "ArtiLiga.swf",
+        "before_hex": "831500417274694c6967612e737766005f6c6576656c3000",
+        "after_hex": "8322004653436f6d6d616e643a6c6f61644d6f64756c6500417274694c6967612e73776600"
+      },
+      {
+        "location": "root/tag34[119]@221849/button91/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "artiacent.swf",
+        "module": "ArtiAcent.swf",
+        "before_hex": "831600617274696163656e742e737766005f6c6576656c3000",
+        "after_hex": "8323004653436f6d6d616e643a6c6f61644d6f64756c6500417274694163656e742e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[86]@219999",
+        "tag": 34,
+        "before_payload_sha256": "05e7baaf5482484ba5682f6e65c72c3c7ba383bac5cccd1d3887d2705f7b3e05",
+        "after_payload_sha256": "5421a43d369a94cf3d3c349cd633b3cdb35e1948e55be8a7a9606669af72d78b",
+        "before_payload_size": 124,
+        "after_payload_size": 137,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[99]@220771",
+        "tag": 34,
+        "before_payload_sha256": "c63cba20a15d43191f9d1f616fcd1001f7cff4f50be620cf4c0712d8dab010fd",
+        "after_payload_sha256": "f081e8e2cacc97f0e13b63ab64f844d36740b9bbba61003d724ad6c47722e84f",
+        "before_payload_size": 82,
+        "after_payload_size": 95,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[104]@220998",
+        "tag": 34,
+        "before_payload_sha256": "004ec76970eb3dbf9e3210423869c03ceb3cb23b57b3817fba0c6fbc22ea27c7",
+        "after_payload_sha256": "baf406dab25cddd53cf082f4b4a22b0c63250edd523845338353abae269892fd",
+        "before_payload_size": 82,
+        "after_payload_size": 95,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[109]@221298",
+        "tag": 34,
+        "before_payload_sha256": "c65956409e500f927fa73131bf1b1bdd9bc8b1e6eec730376c82da4ca071b643",
+        "after_payload_sha256": "d05e26b21b1780f28f006980eea3567f901db1b0473bce016fc19fadc7b881a8",
+        "before_payload_size": 86,
+        "after_payload_size": 99,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[114]@221618",
+        "tag": 34,
+        "before_payload_sha256": "9ecf135f1eb0f8ae717d12a5327fff91e2ffbc034221c7c1e32ce08392c98757",
+        "after_payload_sha256": "54ec63b221821326b6b58032a8cecb4749344038a990ef936b6e0ffedebcc8fe",
+        "before_payload_size": 86,
+        "after_payload_size": 99,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[119]@221849",
+        "tag": 34,
+        "before_payload_sha256": "31d1df7594d0e42b1145807be35192a921d76f40282ae7087208581269e41323",
+        "after_payload_sha256": "b88a51aa7a9ce09b2ef0d581b116e6bc997d94ce73571303694cd983a484cc00",
+        "before_payload_size": 83,
+        "after_payload_size": 96,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "ArtiLiga.swf",
+    "original_sha256": "59f575c5cd399e91b92bf47db22aa38119507e179097650e2ee780cb48aa074c",
+    "web_sha256": "b78e8e3714c9a01026a5e38508b752f9d390b57310b0bcfb689a4d5833424885",
+    "original_size": 733305,
+    "web_size": 733318,
+    "changes": [
+      {
+        "location": "root/tag34[71]@682700/button44/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "articulacao.swf",
+        "module": "Articulacao.swf",
+        "before_hex": "8318006172746963756c6163616f2e737766005f6c6576656c3000",
+        "after_hex": "8325004653436f6d6d616e643a6c6f61644d6f64756c65004172746963756c6163616f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[71]@682700",
+        "tag": 34,
+        "before_payload_sha256": "b0f28229c99b5fc6110f3756c3b66188b56170b96a51deac0afdbaa31ce9cde6",
+        "after_payload_sha256": "67ff5007e8cac31b7b566f232a52b2ba68ab12bf3ee5eceb6c2aeed39542236e",
+        "before_payload_size": 128,
+        "after_payload_size": 141,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "ArtiStac.swf",
+    "original_sha256": "f591858de199fa1de582bf59e5a4fc34e36fd812eb660a5096c34442459bc927",
+    "web_sha256": "1932778181c78517402b3f2e8b85a7dd0b6dc7e2bf506e2caf024e2ddefb31c9",
+    "original_size": 3867931,
+    "web_size": 3867944,
+    "changes": [
+      {
+        "location": "root/tag34[45]@3806969/button28/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "articulacao.swf",
+        "module": "Articulacao.swf",
+        "before_hex": "8318006172746963756c6163616f2e737766005f6c6576656c3000",
+        "after_hex": "8325004653436f6d6d616e643a6c6f61644d6f64756c65004172746963756c6163616f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[45]@3806969",
+        "tag": 34,
+        "before_payload_sha256": "45a1db5fac09b737c5ce088fb169a0048f618b65669cc7ed58fb33903d773ea2",
+        "after_payload_sha256": "58be77c67843027d6c0ec7ceda1cebf37eab8dd85eed7d239d2f6e08567a97e2",
+        "before_payload_size": 128,
+        "after_payload_size": 141,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "ArtiTenu.swf",
+    "original_sha256": "ae4a0160bcdd692939a54bbef0977718d01bc5df07bde22e16bb4490a48827fc",
+    "web_sha256": "d8ff4983e0c49f4b4cc61aae023acf70ec5b22fd15343e4a119998c0f3945a42",
+    "original_size": 1846197,
+    "web_size": 1846210,
+    "changes": [
+      {
+        "location": "root/tag34[60]@1794763/button39/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "articulacao.swf",
+        "module": "Articulacao.swf",
+        "before_hex": "8318006172746963756c6163616f2e737766005f6c6576656c3000",
+        "after_hex": "8325004653436f6d6d616e643a6c6f61644d6f64756c65004172746963756c6163616f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[60]@1794763",
+        "tag": 34,
+        "before_payload_sha256": "14be1344491ee9fa9b5fbdb62ca21f7bd83762f1104a7bea1ed89b3e18a8f0d5",
+        "after_payload_sha256": "004843afe990cc6156d69d03bced07e29e87790af7051fec63b83d9693bc3f83",
+        "before_payload_size": 128,
+        "after_payload_size": 141,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "ArtiVari.swf",
+    "original_sha256": "50e6127cfc6e79bfedff7ca856db7aa97e4fa9910771cff803dfe7024416b217",
+    "web_sha256": "00e9787e140af1ebb450367c69a78e72f867f1303162fefdf56100c73d2383de",
+    "original_size": 1636191,
+    "web_size": 1636204,
+    "changes": [
+      {
+        "location": "root/tag34[71]@1576242/button44/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "articulacao.swf",
+        "module": "Articulacao.swf",
+        "before_hex": "8318006172746963756c6163616f2e737766005f6c6576656c3000",
+        "after_hex": "8325004653436f6d6d616e643a6c6f61644d6f64756c65004172746963756c6163616f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[71]@1576242",
+        "tag": 34,
+        "before_payload_sha256": "b0f28229c99b5fc6110f3756c3b66188b56170b96a51deac0afdbaa31ce9cde6",
+        "after_payload_sha256": "67ff5007e8cac31b7b566f232a52b2ba68ab12bf3ee5eceb6c2aeed39542236e",
+        "before_payload_size": 128,
+        "after_payload_size": 141,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "Cadencia.swf",
+    "original_sha256": "edb959ce8d31a5c997169f033fe8ef56fd009465fb1d55dce675786c1aecc975",
+    "web_sha256": "e02ea2edb6ea15634c2795dd577348ef7d2d7e965ce76962dda7775a399e9478",
+    "original_size": 6516364,
+    "web_size": 6516377,
+    "changes": [
+      {
+        "location": "root/tag34[80]@6494439/button49/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "TPMmod1.swf",
+        "module": "TPMmod1.swf",
+        "before_hex": "83140054504d6d6f64312e737766005f6c6576656c3000",
+        "after_hex": "8321004653436f6d6d616e643a6c6f61644d6f64756c650054504d6d6f64312e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[80]@6494439",
+        "tag": 34,
+        "before_payload_sha256": "1d4204b87bacef2b7e791564884c28ccb38818eb1981f4ddd6cf5620e080a2cd",
+        "after_payload_sha256": "0c8db311495bf0d352a95b0d5e633dfc4d54a06b201f1fe931f2868fe33c6f8f",
+        "before_payload_size": 124,
+        "after_payload_size": 137,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "Dina.swf",
+    "original_sha256": "d309e8a921ea441fab0df57fd36047df5e58a25898d3041df00c678e38a426d6",
+    "web_sha256": "185735cb0dd09b92f4a73318741b74077cb9cc1822d7eadd01e92e5e1d121559",
+    "original_size": 2294964,
+    "web_size": 2294977,
+    "changes": [
+      {
+        "location": "root/tag34[44]@2235278/button31/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "TPMmod1.swf",
+        "module": "TPMmod1.swf",
+        "before_hex": "83140054504d6d6f64312e737766005f6c6576656c3000",
+        "after_hex": "8321004653436f6d6d616e643a6c6f61644d6f64756c650054504d6d6f64312e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[44]@2235278",
+        "tag": 34,
+        "before_payload_sha256": "35ef0f167fd46cd4ce981cbf19ab02d62ed0e60eb668af15cc5a6491de2c2b51",
+        "after_payload_sha256": "e878adaf25765a46b42aea5260b2dec02a283a749a5eac241b1427b2548461b0",
+        "before_payload_size": 124,
+        "after_payload_size": 137,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "Escala.swf",
+    "original_sha256": "85e0ab7405249318ad6cddf02cc2f33a20c248ae16a3748f9abd8a3f67c93ba3",
+    "web_sha256": "64e3cc5adbe61315f4b1d983027f0e52099d1a5cc03be98dbde45f89e92f8f6f",
+    "original_size": 4101338,
+    "web_size": 4101351,
+    "changes": [
+      {
+        "location": "root/tag34[66]@4044024/button42/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "TPMmod1.swf",
+        "module": "TPMmod1.swf",
+        "before_hex": "83140054504d6d6f64312e737766005f6c6576656c3000",
+        "after_hex": "8321004653436f6d6d616e643a6c6f61644d6f64756c650054504d6d6f64312e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[66]@4044024",
+        "tag": 34,
+        "before_payload_sha256": "c712d8972e1b92e60a161772aa08a87ccd3a234f8597a08e09df2d111a0b26ff",
+        "after_payload_sha256": "9e1f29f04adaed0e8b38ec7ed1c24ce77c957967054415421ff7e9f0a1c0a4e1",
+        "before_payload_size": 124,
+        "after_payload_size": 137,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "Intervalo.swf",
+    "original_sha256": "ec3356f22aa5ed90c10ece302f5be3e44d1bbd7feaa6cebd58b11da2569dc318",
+    "web_sha256": "05228d02b133ec770dea9de3e9e184b6e4ab68bcaa647523789dff5e9eecdbf3",
+    "original_size": 225278,
+    "web_size": 225382,
+    "changes": [
+      {
+        "location": "root/tag34[81]@221315/button57/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "IntFixo1458.swf",
+        "module": "IntFixo1458.swf",
+        "before_hex": "831800496e744669786f313435382e737766005f6c6576656c3000",
+        "after_hex": "8325004653436f6d6d616e643a6c6f61644d6f64756c6500496e744669786f313435382e73776600"
+      },
+      {
+        "location": "root/tag34[86]@221626/button61/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "IntFixo3MaMe.swf",
+        "module": "IntFixo3MaMe.swf",
+        "before_hex": "831900496e744669786f334d614d652e737766005f6c6576656c3000",
+        "after_hex": "8326004653436f6d6d616e643a6c6f61644d6f64756c6500496e744669786f334d614d652e73776600"
+      },
+      {
+        "location": "root/tag34[91]@222078/button65/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "IntSegUniOit.swf",
+        "module": "IntSegUniOit.swf",
+        "before_hex": "831900496e74536567556e694f69742e737766005f6c6576656c3000",
+        "after_hex": "8326004653436f6d6d616e643a6c6f61644d6f64756c6500496e74536567556e694f69742e73776600"
+      },
+      {
+        "location": "root/tag34[96]@222531/button69/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "IntSegQuaQui.swf",
+        "module": "IntSegQuaQui.swf",
+        "before_hex": "831900496e745365675175615175692e737766005f6c6576656c3000",
+        "after_hex": "8326004653436f6d6d616e643a6c6f61644d6f64756c6500496e745365675175615175692e73776600"
+      },
+      {
+        "location": "root/tag34[101]@223020/button73/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "IntJuntUniOit.swf",
+        "module": "IntJuntUniOit.swf",
+        "before_hex": "831a00496e744a756e74556e694f69742e737766005f6c6576656c3000",
+        "after_hex": "8327004653436f6d6d616e643a6c6f61644d6f64756c6500496e744a756e74556e694f69742e73776600"
+      },
+      {
+        "location": "root/tag34[106]@223510/button77/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "IntJuntQuaQui.swf",
+        "module": "IntJuntQuaQui.swf",
+        "before_hex": "831a00496e744a756e745175615175692e737766005f6c6576656c3000",
+        "after_hex": "8327004653436f6d6d616e643a6c6f61644d6f64756c6500496e744a756e745175615175692e73776600"
+      },
+      {
+        "location": "root/tag34[111]@223819/button81/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "IntJunt3MaMe.swf",
+        "module": "IntJunt3MaMe.swf",
+        "before_hex": "831900496e744a756e74334d614d652e737766005f6c6576656c3000",
+        "after_hex": "8326004653436f6d6d616e643a6c6f61644d6f64756c6500496e744a756e74334d614d652e73776600"
+      },
+      {
+        "location": "root/tag34[125]@224637/button94/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "TPMmod1.swf",
+        "module": "TPMmod1.swf",
+        "before_hex": "83140054504d6d6f64312e737766005f6c6576656c3000",
+        "after_hex": "8321004653436f6d6d616e643a6c6f61644d6f64756c650054504d6d6f64312e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[81]@221315",
+        "tag": 34,
+        "before_payload_sha256": "e96039ae38eafbd9bd4435734cb444c01643b8543c9bc0efb90e7eab9ab37e1c",
+        "after_payload_sha256": "87a7d52072b68d7fa12a84c7a36823973bfaf1cdc71627efe17f3e675d87385d",
+        "before_payload_size": 89,
+        "after_payload_size": 102,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[86]@221626",
+        "tag": 34,
+        "before_payload_sha256": "cf24391b430ac36113ab0d9bcf3222cae09270840ada895dbc297ff3312df08b",
+        "after_payload_sha256": "3c662cbbaeda8d2c66a9a8a0b4959982a6bd75e8d7b55673c647eeeed516830c",
+        "before_payload_size": 90,
+        "after_payload_size": 103,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[91]@222078",
+        "tag": 34,
+        "before_payload_sha256": "ac610f63ad2e5288aab9b575d9aec52ffe3c273f554da916812bad8d9f3674e8",
+        "after_payload_sha256": "8a16176255668f7798c7a61f5ef9ff4cff5fa776dca95a01846c72ab42bb2bce",
+        "before_payload_size": 90,
+        "after_payload_size": 103,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[96]@222531",
+        "tag": 34,
+        "before_payload_sha256": "5eb333499ac593e58304de5ac3abfd87ddfa95e27c78f7342d29535eb9483108",
+        "after_payload_sha256": "bfe1c79c100a6eade9868d0c92ca6a75aee81da5efd3ce94b8dab3b98b252383",
+        "before_payload_size": 90,
+        "after_payload_size": 103,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[101]@223020",
+        "tag": 34,
+        "before_payload_sha256": "bd6eab7c07bb02387c6af0084fc6273cf94c71910f21cc05601e27a98f2af7cb",
+        "after_payload_sha256": "7ad70520a96fe65514d927f3ac1acd89bad8d3878d26fdf2e5c18154deb559eb",
+        "before_payload_size": 91,
+        "after_payload_size": 104,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[106]@223510",
+        "tag": 34,
+        "before_payload_sha256": "bd93989e1ec4fab8edfe35d815f5bb0de5283fbbba7601a5b035f2619eb12ce2",
+        "after_payload_sha256": "a3cd253b6837d42b8e834ccae321767780b7d458774eba5b0ff95bef62f028f4",
+        "before_payload_size": 91,
+        "after_payload_size": 104,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[111]@223819",
+        "tag": 34,
+        "before_payload_sha256": "f8b7c91ce71e89c563b82923844c7d834d42db5b96aa9577cf61801f66480cad",
+        "after_payload_sha256": "e6eb1693315654f0ae5bb6819c255d4b423dc634b660c8f455ed8478e1ae1e0f",
+        "before_payload_size": 90,
+        "after_payload_size": 103,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[125]@224637",
+        "tag": 34,
+        "before_payload_sha256": "b8fc0138a5b79ebb3bd19a2a9e376c58bc63837c32ae257684ac6235027f1df0",
+        "after_payload_sha256": "c8e7b93487d2f8c14f7fd8d2367adbac873c536a0ced7019ac42b9d670d30f76",
+        "before_payload_size": 124,
+        "after_payload_size": 137,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "IntFixo1458.swf",
+    "original_sha256": "908545c622591565f282141a21edd551f5c95ba153b940b88674dd335fa360c6",
+    "web_sha256": "fbeea3701b5a6688c7ee8557a69edd7f22023a3dfb011c693a92b08e1d0060a8",
+    "original_size": 527928,
+    "web_size": 527941,
+    "changes": [
+      {
+        "location": "root/tag34[56]@505369/button37/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "Intervalo.swf",
+        "module": "Intervalo.swf",
+        "before_hex": "831600496e74657276616c6f2e737766005f6c6576656c3000",
+        "after_hex": "8323004653436f6d6d616e643a6c6f61644d6f64756c6500496e74657276616c6f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[56]@505369",
+        "tag": 34,
+        "before_payload_sha256": "e968e5aeb3b7d0028ed6a1bd4b0080c4fe717dded0b4e4800734cda174da79e6",
+        "after_payload_sha256": "c71127193247397b44ccecd58defaed6a8d325e322f7ee113caba2b8e52c9559",
+        "before_payload_size": 126,
+        "after_payload_size": 139,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "IntFixo3MaMe.swf",
+    "original_sha256": "61d5e39420a2e6036567a9bc12e3709d75995d473f8020d1e0265a3f372930a5",
+    "web_sha256": "c72467b5013e398341f4f2b415d6601debefab39d827e5f30aa5a17aa3fa0021",
+    "original_size": 1174072,
+    "web_size": 1174085,
+    "changes": [
+      {
+        "location": "root/tag34[52]@1111949/button35/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "Intervalo.swf",
+        "module": "Intervalo.swf",
+        "before_hex": "831600496e74657276616c6f2e737766005f6c6576656c3000",
+        "after_hex": "8323004653436f6d6d616e643a6c6f61644d6f64756c6500496e74657276616c6f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[52]@1111949",
+        "tag": 34,
+        "before_payload_sha256": "a2d9571730a1d8b18cee50d47058bb0378ab66be8209fb624b0754ce5d49d914",
+        "after_payload_sha256": "8eab3fc1aafb8ab0fb1cd12d152aae5c2359ef3ac09d439584773eec7bcb3817",
+        "before_payload_size": 126,
+        "after_payload_size": 139,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "IntJunt3MaMe.swf",
+    "original_sha256": "5b3058b1f69c41a2dc22e843fcebd489af02795c2f12becbfbcbded031dfc889",
+    "web_sha256": "f76351da5fb066d4d3cbd16efef6c482dd4bc5270bee8ad845a99958981a467c",
+    "original_size": 839923,
+    "web_size": 839936,
+    "changes": [
+      {
+        "location": "root/tag34[58]@824832/button38/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "Intervalo.swf",
+        "module": "Intervalo.swf",
+        "before_hex": "831600496e74657276616c6f2e737766005f6c6576656c3000",
+        "after_hex": "8323004653436f6d6d616e643a6c6f61644d6f64756c6500496e74657276616c6f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[58]@824832",
+        "tag": 34,
+        "before_payload_sha256": "ef345e1f4649c9e5b3d0f027bc0e74c6a0e5f71f67857110b184cc2682129387",
+        "after_payload_sha256": "92fe74d56d9b5ca24e47e5a94ea850ac6b6399318dd19fe2023e4ddbedc8673d",
+        "before_payload_size": 126,
+        "after_payload_size": 139,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "IntJuntQuaQui.swf",
+    "original_sha256": "fdfd91b9acadd6b195d1e02fa22ea57298527d4b95d25c885455087178d2568a",
+    "web_sha256": "290980177fcc06553f3fe179ed8feb71feee8fc3903e2df77a57a014715a8f34",
+    "original_size": 1022484,
+    "web_size": 1022497,
+    "changes": [
+      {
+        "location": "root/tag34[72]@1001929/button45/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "Intervalo.swf",
+        "module": "Intervalo.swf",
+        "before_hex": "831600496e74657276616c6f2e737766005f6c6576656c3000",
+        "after_hex": "8323004653436f6d6d616e643a6c6f61644d6f64756c6500496e74657276616c6f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[72]@1001929",
+        "tag": 34,
+        "before_payload_sha256": "321cc20c178d1719e770ded7c39061d9bc89f3dd74ed443c83d29d6dbb1178f4",
+        "after_payload_sha256": "dfe4d78d51e6857740b348b37f45a7d92926f795569e008c4590d784464a4492",
+        "before_payload_size": 126,
+        "after_payload_size": 139,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "IntJuntUniOit.swf",
+    "original_sha256": "e52e842c70ed7c05b281f72be0195a30a3305396a0f866c656f564bc116a65ab",
+    "web_sha256": "4afc69bb095c5ae1d38ca9a97fdf9cc467dee6ac8119ee4b412325768a9ce004",
+    "original_size": 1039984,
+    "web_size": 1039997,
+    "changes": [
+      {
+        "location": "root/tag34[63]@999953/button37/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "Intervalo.swf",
+        "module": "Intervalo.swf",
+        "before_hex": "831600496e74657276616c6f2e737766005f6c6576656c3000",
+        "after_hex": "8323004653436f6d6d616e643a6c6f61644d6f64756c6500496e74657276616c6f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[63]@999953",
+        "tag": 34,
+        "before_payload_sha256": "cff248e71a818315194c01b97604872da9cfcc394b78d9a3afa4aa73129f5f7c",
+        "after_payload_sha256": "a39c520b88924b92d05a381cee1dfa6dcca09cdbe057da9edbd7e4fd9f664f2c",
+        "before_payload_size": 126,
+        "after_payload_size": 139,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "IntSegQuaQui.swf",
+    "original_sha256": "47d04d8c44a6ca9615eaac5fc8f52a65513234a3a0cc291e32cb33c556d90a92",
+    "web_sha256": "151e8d37682fe39aba630707322ad1ce3fe7ab99a89793bd8e7054eebec79168",
+    "original_size": 1035565,
+    "web_size": 1035578,
+    "changes": [
+      {
+        "location": "root/tag34[72]@1015036/button45/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "Intervalo.swf",
+        "module": "Intervalo.swf",
+        "before_hex": "831600496e74657276616c6f2e737766005f6c6576656c3000",
+        "after_hex": "8323004653436f6d6d616e643a6c6f61644d6f64756c6500496e74657276616c6f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[72]@1015036",
+        "tag": 34,
+        "before_payload_sha256": "321cc20c178d1719e770ded7c39061d9bc89f3dd74ed443c83d29d6dbb1178f4",
+        "after_payload_sha256": "dfe4d78d51e6857740b348b37f45a7d92926f795569e008c4590d784464a4492",
+        "before_payload_size": 126,
+        "after_payload_size": 139,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "IntSegUniOit.swf",
+    "original_sha256": "8134b38bcac2cf37f77ddcbb39aef1165020abf9a7a5ab4dafc775c1bcc617fa",
+    "web_sha256": "52e3cccafc9b870c310da195101a5e352712720b18a79bd669c00f80921a161e",
+    "original_size": 1052572,
+    "web_size": 1052585,
+    "changes": [
+      {
+        "location": "root/tag34[80]@1013674/button52/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "Intervalo.swf",
+        "module": "Intervalo.swf",
+        "before_hex": "831600496e74657276616c6f2e737766005f6c6576656c3000",
+        "after_hex": "8323004653436f6d6d616e643a6c6f61644d6f64756c6500496e74657276616c6f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[80]@1013674",
+        "tag": 34,
+        "before_payload_sha256": "18de20c6d82b0b7550459a407d64eebe7a7a1eb3ae7b77b35b6d63e4abe3ff4e",
+        "after_payload_sha256": "ce16fa0edf75d5a22cd27ba5f95e291dc8deb06c0e7e9053558dd478753a2d3f",
+        "before_payload_size": 126,
+        "after_payload_size": 139,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "Modulacao.swf",
+    "original_sha256": "97439b41337c50a2d53b152628680030bfb7ef1024f35de59930bcd8a256e6bd",
+    "web_sha256": "0da80a3b695e6dc627524757087fe8feb72d578190c3faa66588c187a9b39bf6",
+    "original_size": 4878936,
+    "web_size": 4878962,
+    "changes": [
+      {
+        "location": "root/tag34[31]@4779934/button21/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "TPMmod1.swf",
+        "module": "TPMmod1.swf",
+        "before_hex": "83140054504d6d6f64312e737766005f6c6576656c3000",
+        "after_hex": "8321004653436f6d6d616e643a6c6f61644d6f64756c650054504d6d6f64312e73776600"
+      },
+      {
+        "location": "root/tag34[267]@4878568/button99/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "TPMmod1.swf",
+        "module": "TPMmod1.swf",
+        "before_hex": "83140054504d6d6f64312e737766005f6c6576656c3000",
+        "after_hex": "8321004653436f6d6d616e643a6c6f61644d6f64756c650054504d6d6f64312e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[31]@4779934",
+        "tag": 34,
+        "before_payload_sha256": "cfff228b61d91d59d15409847bf690d008fe6a0168835d2a4170550ff9fef210",
+        "after_payload_sha256": "f74b9fcae842fe06e5c61522692e1ff494b0858d1a640300e11940691e2bc2c6",
+        "before_payload_size": 124,
+        "after_payload_size": 137,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[267]@4878568",
+        "tag": 34,
+        "before_payload_sha256": "b49d0d7e80a1d341b7a6461368d28bcdbdba6a11179089ad91348ede46ec26db",
+        "after_payload_sha256": "d1589620d0d7d58dc36868733719325bff14bc904135c6c8be700c8ebdbe1464",
+        "before_payload_size": 124,
+        "after_payload_size": 137,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "Notas.swf",
+    "original_sha256": "f2a8e2c85310d4d6a23eee079da66be53b23398909dd423d0c024ee4f103aad4",
+    "web_sha256": "6e47dbd8bf50db4010f3a9133fc049c4984fe2c171d5079878c3f90f5e3d46b9",
+    "original_size": 3930762,
+    "web_size": 3930775,
+    "changes": [
+      {
+        "location": "root/tag34[76]@3249811/button45/condition8",
+        "action_offset_within_block": 1,
+        "original_target": "TPMmod1.swf",
+        "module": "TPMmod1.swf",
+        "before_hex": "83140054504d6d6f64312e737766005f6c6576656c3000",
+        "after_hex": "8321004653436f6d6d616e643a6c6f61644d6f64756c650054504d6d6f64312e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[76]@3249811",
+        "tag": 34,
+        "before_payload_sha256": "55095128fd1aa40c7f2276332314fa64877624df0d84491a79e61c56aa2bdffd",
+        "after_payload_sha256": "ac9bc2d142867692f843037d8d39ac0258199c4344ec86a86d7ba4d64e0e0446",
+        "before_payload_size": 124,
+        "after_payload_size": 137,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "PianoMelhor.swf",
+    "original_sha256": "90e7c39c4c5543530a1c6b88087e91a160bd3c0001c7f4b21dd4e5c473ebb235",
+    "web_sha256": "90e7c39c4c5543530a1c6b88087e91a160bd3c0001c7f4b21dd4e5c473ebb235",
+    "original_size": 217285,
+    "web_size": 217285,
+    "changes": [],
+    "changed_tag_payloads": [],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  },
+  {
+    "file": "TPMmod1.swf",
+    "original_sha256": "0385299791abbed2612c5562c4e872cc34df11bfd142aff43ce085ac69e85abc",
+    "web_sha256": "69c8340e1780aa3892194c2de25daafc61be1f1a693cde33467ec4958db6637e",
+    "original_size": 332821,
+    "web_size": 332925,
+    "changes": [
+      {
+        "location": "root/tag34[120]@226010/button85/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Articulacao.swf",
+        "module": "Articulacao.swf",
+        "before_hex": "8318004172746963756c6163616f2e737766005f6c6576656c3000",
+        "after_hex": "8325004653436f6d6d616e643a6c6f61644d6f64756c65004172746963756c6163616f2e73776600"
+      },
+      {
+        "location": "root/tag34[125]@226256/button89/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Dina.swf",
+        "module": "Dina.swf",
+        "before_hex": "83110044696e612e737766005f6c6576656c3000",
+        "after_hex": "831e004653436f6d6d616e643a6c6f61644d6f64756c650044696e612e73776600"
+      },
+      {
+        "location": "root/tag34[130]@226503/button93/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Afinacao.swf",
+        "module": "Afinacao.swf",
+        "before_hex": "8315004166696e6163616f2e737766005f6c6576656c3000",
+        "after_hex": "8322004653436f6d6d616e643a6c6f61644d6f64756c65004166696e6163616f2e73776600"
+      },
+      {
+        "location": "root/tag34[135]@226728/button97/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Notas.swf",
+        "module": "Notas.swf",
+        "before_hex": "8312004e6f7461732e737766005f6c6576656c3000",
+        "after_hex": "831f004653436f6d6d616e643a6c6f61644d6f64756c65004e6f7461732e73776600"
+      },
+      {
+        "location": "root/tag34[140]@226985/button101/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Intervalo.swf",
+        "module": "Intervalo.swf",
+        "before_hex": "831600496e74657276616c6f2e737766005f6c6576656c3000",
+        "after_hex": "8323004653436f6d6d616e643a6c6f61644d6f64756c6500496e74657276616c6f2e73776600"
+      },
+      {
+        "location": "root/tag34[145]@227220/button105/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Escala.swf",
+        "module": "Escala.swf",
+        "before_hex": "831300457363616c612e737766005f6c6576656c3000",
+        "after_hex": "8320004653436f6d6d616e643a6c6f61644d6f64756c6500457363616c612e73776600"
+      },
+      {
+        "location": "root/tag34[150]@227506/button109/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Cadencia.swf",
+        "module": "Cadencia.swf",
+        "before_hex": "831500436164656e6369612e737766005f6c6576656c3000",
+        "after_hex": "8322004653436f6d6d616e643a6c6f61644d6f64756c6500436164656e6369612e73776600"
+      },
+      {
+        "location": "root/tag34[155]@227758/button113/condition8",
+        "action_offset_within_block": 0,
+        "original_target": "Modulacao.swf",
+        "module": "Modulacao.swf",
+        "before_hex": "8316004d6f64756c6163616f2e737766005f6c6576656c3000",
+        "after_hex": "8323004653436f6d6d616e643a6c6f61644d6f64756c65004d6f64756c6163616f2e73776600"
+      }
+    ],
+    "changed_tag_payloads": [
+      {
+        "location": "root/tag34[120]@226010",
+        "tag": 34,
+        "before_payload_sha256": "e31dbea747c447bfe341ddc08b3b0e36319be16af07dc8b9ede941cb33f84206",
+        "after_payload_sha256": "28fd1eb60f521e8b339812213cedb519df3b653552c1937f4dd6982b2b82298f",
+        "before_payload_size": 89,
+        "after_payload_size": 102,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[125]@226256",
+        "tag": 34,
+        "before_payload_sha256": "dd4a4ca45d84ca2bf246d0872a3d041f7a12f501002e0d42bea40c4b1aedc78b",
+        "after_payload_sha256": "b58fe2461e01d24241bc3d43a40afcd8aaa4f74a7b2fcf3e2708767e927f340f",
+        "before_payload_size": 78,
+        "after_payload_size": 91,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[130]@226503",
+        "tag": 34,
+        "before_payload_sha256": "15a6ae28097e82620fa184f5c2591b63e5cc92b5ef628cf9b30651e442390d2e",
+        "after_payload_sha256": "ba2d23d62fc0efb8bf70e3e86d00b3d9825490519e267ca1ec673f60766861a9",
+        "before_payload_size": 82,
+        "after_payload_size": 95,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[135]@226728",
+        "tag": 34,
+        "before_payload_sha256": "ea522a731bce8b503ab983ef3b8100201a06a5047a24ee905fbe53e0609c9d7f",
+        "after_payload_sha256": "acd0bbb1729e761d3f522513a55d77586e52a057ae137d3aded0bc87caf4fd99",
+        "before_payload_size": 79,
+        "after_payload_size": 92,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[140]@226985",
+        "tag": 34,
+        "before_payload_sha256": "1a2fe6a8a7c6eb87f9d775c25c8be6e9727c5335154ebe5d743cae93b05e9c7f",
+        "after_payload_sha256": "4a5c4881bd70c65fd02cfc0a7bdd2a5af7cbda80c91403fae0f6bf4a0bf961ef",
+        "before_payload_size": 83,
+        "after_payload_size": 96,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[145]@227220",
+        "tag": 34,
+        "before_payload_sha256": "67d95c405520c1d69b2127bbdd5cc28df1275ce9865645c6fc690778de205322",
+        "after_payload_sha256": "6a5347861ff082b8046a04171a49660238b60dadcbcab48b15c869c1973da221",
+        "before_payload_size": 80,
+        "after_payload_size": 93,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[150]@227506",
+        "tag": 34,
+        "before_payload_sha256": "aa5d9532b795beb6889b2d3d08cf528b1a1ef7a4b73d467b16f5a152aa38d9c7",
+        "after_payload_sha256": "c1730fc28377a617af5fb37de3e98453cd8e2f1dd202a10d06dc43c7cb6fac92",
+        "before_payload_size": 86,
+        "after_payload_size": 99,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      },
+      {
+        "location": "root/tag34[155]@227758",
+        "tag": 34,
+        "before_payload_sha256": "fff7f44b18d64dda1e5f58e31a0f6cab24d419a7bf6fa5acbbf8a5725d858e25",
+        "after_payload_sha256": "41b71b657863fc5409432c6d21e7a2a8b787b459472577ae09e2be1b9a6c6bd7",
+        "before_payload_size": 83,
+        "after_payload_size": 96,
+        "change_kind": "only_GetURL_actions_and_required_container_lengths"
+      }
+    ],
+    "unchanged_tags_preserved_byte_exact": true,
+    "branch_safety": "changed action blocks have no jumps, if, skip frames or nested function declarations",
+    "audio_unchanged": true
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "before_sha256": "f81e23634cd8b505af2be62b564c8da7c2e1332354e271b834b2d34819275808",
+  "after_sha256": "dcd45e22e488b81c64ce78061c31460ecf19af6071710755766fcf7c4cdb5d78",
+  "before_size": 1858046,
+  "after_size": 1858045,
+  "changes": [
+    {
+      "root_frame": 4,
+      "tag": 12,
+      "tag_offset_before": 1824040,
+      "action_offset_within_tag": 0,
+      "opcode": "0x88",
+      "before_symbol": "ArtiAcent1.wav",
+      "after_symbol": "ArtiAcen1.wav",
+      "before_action_hex": "8828000400417274694163656e74312e77617600746f636100617474616368536f756e6400737461727400",
+      "after_action_hex": "8827000400417274694163656e312e77617600746f636100617474616368536f756e6400737461727400",
+      "before_payload_sha256": "8630127db58044d859360087dcbcbbb49375e3edec836be7fbb6ef7bd2c22bbb",
+      "before_payload_size": 86,
+      "after_payload_sha256": "3ec4f26935df736bb0170e7a789293e94345cd78acb6ef9fe41ed4b3015dd291",
+      "after_payload_size": 85
+    }
+  ],
+  "only_constant_pool_symbol_and_required_lengths_changed": true,
+  "all_DefineSound_bytes_preserved": true,
+  "restore": "Rerun route_fscommands.py from the preserved original to recover the pre-audio-patch variant."
+}
