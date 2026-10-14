@@ -1,2 +1,4 @@
 node_modules/
 qa-audio.js
+__pycache__/
+*.pyc
